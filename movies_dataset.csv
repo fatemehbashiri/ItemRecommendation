@@ -1,0 +1,1001 @@
+id,title,genre,director,cast,imdb_rate,release_year
+1,Almost You,Comedy|Drama,Olivie Burger,Kalle Halksworth,1,2002
+2,Stella,Drama,Everard Rasch,Stacey Locker,2,2005
+3,"Prize of Peril, The (Prix du danger, Le)",Action|Drama,Jenica Smallridge,Phyllys Kyneton,3,1991
+4,Blind Date,Horror|Thriller,Allyce Montgomery,Rebecca Tommasuzzi,4,2010
+5,"Great Gatsby, The",Drama,Sigmund Carek,Fleur Sandham,5,2012
+6,Cover Girl,Comedy|Musical,Esme Vautin,Missie Hews,6,1987
+7,Bookies,Comedy|Crime|Drama|Thriller,Merralee Avrahm,Decca Grain,7,1990
+8,Purge (Puhdistus),Drama,Marge Marcoolyn,Damiano Rixon,8,1999
+9,Stoned,Drama,Berti Nuth,Biron Ondrasek,9,2012
+10,Kwik Stop,Comedy|Drama|Romance,Alice Wall,Ade Death,0,2009
+11,Night and Day (Bam gua nat),Drama,Eldin Lodovichi,Cornie Wistance,1,2006
+12,Another Nine & a Half Weeks (Love in Paris) (9 1/2 Weeks II) (Another 9 1/2 Weeks),Drama|Romance,Helenka Sarver,Birgit Sunderland,2,1998
+13,Mail Order Bride,Comedy,Leonore Tottem,Giovanni Aizikovitch,3,1996
+14,Zeitgeist: The Movie,Documentary|War,Algernon Walcher,Shaun Dilrew,4,2009
+15,Not Your Typical Bigfoot Movie,Documentary,Erena Cobbing,Ania Roache,5,2012
+16,In My Father's Den,Drama,Giselle Binnie,Antone Cope,6,2002
+17,"White Cliffs of Dover, The",Drama|Romance|War,Blondelle Hindge,Reggie Edgington,7,1995
+18,Happy We (Två killar och en tjej),Comedy|Drama,Shem Cowland,Lucien Vertigan,8,2005
+19,Tru Confessions,Children|Comedy|Drama,Renee Duggan,Isidoro Kidston,9,1990
+20,Turbo: A Power Rangers Movie,Action|Adventure|Children,Delilah Parnby,Gale Matusson,0,2011
+21,Lili Marleen,Drama,Addi Hurton,Marijn Glandon,1,2005
+22,Teheran 43: Spy Ring (a.k.a. Assassination Attempt) (Tegeran-43),Action|Crime|Drama|Thriller,Flint Kreutzer,Fulton Crookall,2,1995
+23,Fire with Fire,Action|Crime|Drama,Myrvyn Gwinnett,Chancey Weddeburn - Scrimgeour,3,2004
+24,"Mummy, The",Action|Adventure|Comedy|Fantasy|Horror|Thriller,Clotilda Nise,Leese Legrice,4,1993
+25,Rocker,Action|Crime|Drama,Sonny Hanshaw,Zedekiah Shirley,5,2002
+26,Fathers' Day,Comedy,Merv Danet,Valle Guinnane,6,2005
+27,Mud,Adventure|Crime|Drama,Georgie Liell,Cesya Slimm,7,2008
+28,Call Girl,Drama|Thriller,Kristian Brenton,Nikita De Ruggero,8,1999
+29,"Maiden Heist, The",Comedy|Crime,Verla Bielfeld,Ely Simmon,9,1984
+30,"Name for Evil, A",Horror,Pasquale Rintoul,Myra Stellin,0,2004
+31,"Devil's Eye, The (Djävulens öga)",Comedy|Drama|Fantasy,Petr Quinby,Janith Espino,1,1993
+32,"Ambulance, The",Thriller,Shaine Thresh,Phillipp Berthe,2,1985
+33,Tideland,Drama|Fantasy|Thriller,Jecho Checci,Sarita Mixhel,3,1998
+34,"Misfits, The",Comedy|Drama|Romance|Western,Cortney Hatchette,Westbrooke Snarie,4,1993
+35,"House by the Cemetery, The (Quella villa accanto al cimitero)",Horror,Shelbi Fincham,Kaylil Sebrens,5,1986
+36,Amandla! A Revolution in Four Part Harmony,Documentary|Musical,Ronni Crooke,Lion Zorro,6,1994
+37,Three (a.k.a. 3 Extremes II) (Saam gaang),Horror|Mystery,Carter Kither,Jacinta Fullegar,7,2005
+38,"Perfect Plan, A (Plan parfait, Un)",Adventure|Comedy|Romance,Richart McCreary,Danyelle Arlet,8,2004
+39,"Battle of the Sexes, The",Comedy,Muhammad Corck,Leontine Rault,9,1993
+40,In the Army Now,Comedy|War,Winne Labbey,Roz Sallnow,0,1997
+41,"Mighty Ducks, The",Children|Comedy,Stevy Coddrington,Jessica Tailby,1,2008
+42,Just Sex and Nothing Else (Csak szex és más semmi),Comedy,Everett Brinkman,Bettye Newcom,2,2000
+43,"Egg and I, The",Comedy|Romance,Monique Rippingale,Hertha Illidge,3,2001
+44,Chronic Town,Action|Drama|Thriller,Carmella Brewis,Lauralee Trevon,4,1995
+45,Brutal Relax,Action|Comedy,Zollie Christophle,Karilynn Reuther,5,2004
+46,"Midsummer Night's Dream, A",Comedy|Fantasy|Romance,Timi Kryszka,Aimee Feldberg,6,1966
+47,Hoffa,Crime|Drama,Lidia Fitton,Fredek De Pietri,7,2011
+48,Overnight Delivery,Comedy|Romance,Lulita Kealy,Terrill Lamcken,8,2008
+49,Shakespeare High,Documentary,Blinni Eccott,Windham Cowland,9,2011
+50,Unlawful Killing,Documentary,Sascha Kendred,Barrie Germon,0,2007
+51,UnHung Hero,Documentary,Angeli Gather,Linda Smidmore,1,1995
+52,"Rat Savior, The (Izbavitelj)",Horror|Sci-Fi,Ellswerth Hackforth,Morly Hemeret,2,2009
+53,Breathless (À bout de souffle),Crime|Drama|Romance,Ardisj Gabbidon,Odilia Groom,3,2003
+54,"Iceman Cometh, The",Drama,Temple Fruchon,Domeniga Skillanders,4,2001
+55,$ (Dollars),Comedy|Crime|Drama,Rheba Greville,Hayyim Gibberd,5,1990
+56,"Scribbler, The",Sci-Fi|Thriller,Marlee Broxis,Cindra Mandrey,6,1985
+57,Doodlebug,Fantasy|Mystery,Cully Tilling,Romonda Ciepluch,7,1991
+58,"South, The (Sur, El)",Drama|Romance,Blinni Adriano,Avery Pescod,8,1996
+59,Oculus,Horror,Becca Prati,Rudolfo Chieze,9,1985
+60,Rebound,Comedy,Anderea Berg,Skipper Ucchino,0,2008
+61,"President's Man, The",Action|Adventure|Thriller,Bowie Kunzler,Joleen MacLachlan,1,2012
+62,Farewell My Concubine (Ba wang bie ji),Drama|Romance,Josefa Gobel,Camey Caldwell,2,1998
+63,Mission to Moscow,Drama|War,Ignazio Toretta,Tybi Ruit,3,2012
+64,New Tale of Zatoichi (Shin Zatôichi monogatari) (Zatôichi 3),Action|Drama,Rafa Wandtke,Marian Pershouse,4,2001
+65,"Book of Stars, The",Drama,Gunter Sodory,Rufe Geistbeck,5,1996
+66,Lie with Me,Drama|Romance,Elvyn Heigold,Randi Dyche,6,1995
+67,Pirates of the Great Salt Lake,Adventure|Comedy,Olva Peres,Ebonee Jagoe,7,2009
+68,Hot Shots! Part Deux,Action|Comedy|War,Maressa Healeas,Lonni Millwater,8,1985
+69,"Business, The",Action|Comedy|Crime|Drama|Thriller,Glyn Mudge,Danit Wayte,9,1994
+70,America: Imagine the World Without Her,Documentary,Tilly Aubrey,Willa Castilla,0,1992
+71,Only Lovers Left Alive,Drama|Horror|Romance,Jacquette MacGillavery,Loren Harrell,1,2011
+72,Curse of the Blair Witch,Documentary|Horror|Thriller,Alicea Halls,Lavinia Aleksandrov,2,1992
+73,"Kiss for Corliss, A (Almost a Bride)",Comedy,Lizette Roselli,Kirstin Jouanet,3,2004
+74,"Boob, The",Comedy|Romance,Nyssa Coller,Batholomew Colpus,4,2005
+75,Only Two Can Play,Comedy|Drama,Marysa Argyle,Avram Apple,5,2005
+76,Rounders,Drama,Terrill Bosward,Arlen Rydings,6,1995
+77,Kicking and Screaming,Comedy|Drama,Ricardo Penniall,Angelica Rubi,7,1993
+78,Glory to the Filmmaker! (Kantoku · Banzai!),Comedy|Drama,Olly Beeble,Danika Woodier,8,2008
+79,"Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles",Drama,Grier Vannuccinii,Carleen Seeley,9,1994
+80,M,Crime|Drama|Film-Noir|Thriller,Hermina Monard,Wilow Calvert,0,2008
+81,"Delta Force, The",Action,Bronny Rothchild,Ginger Linskey,1,1992
+82,Balance,Animation|Drama|Mystery|Sci-Fi|Thriller,Allyson Vaughton,Vladamir Pourvoieur,2,2007
+83,Stuart Little,Children|Comedy|Fantasy,Cassie Attryde,Cassie Courage,3,2002
+84,"Bling Ring, The",Crime|Drama,Ardyce de Keep,Athena Monroe,4,2005
+85,Love & Sex,Comedy|Drama|Romance,Quill Tourville,Dolli Appleton,5,1997
+86,Hitler's Children,Documentary,Neel Garett,Sloan Shrimplin,6,1990
+87,"Painting, The (Tableau, Le)",Animation,Marielle Scanderet,Bobby Iannuzzi,7,1995
+88,Every Stewardess Goes to Heaven (Todas las azafatas van al cielo),Drama|Romance,Larry Silvers,Palmer Tudge,8,1998
+89,Vive L'Amour (Ai qing wan sui),Drama,Kendall Hugues,Robby Abbie,9,2007
+90,Advanced Style,Comedy|Documentary|Drama,Jackelyn Doohey,Arte Fishlock,0,2009
+91,Cyclo (Xich lo),Crime|Drama,Leslie Dewhirst,Jed McCree,1,2001
+92,Butterflies Are Free,Comedy|Drama,Molly Raith,Stefa Brett,2,1995
+93,Modern Problems,Comedy|Fantasy,Rena Child,Cris Georgeot,3,1987
+94,"Diving Bell and the Butterfly, The (Scaphandre et le papillon, Le)",Drama,Homerus Causer,Beth Shulver,4,2005
+95,Spencer's Mountain,Comedy|Drama,Spense Kulic,Esdras Kimmince,5,2003
+96,Gurren Lagann: The Lights in the Sky are Stars (Gekijô ban Tengen toppa guren ragan: Ragan hen),Adventure|Animation|Drama|Sci-Fi|War,Maurizia Deem,Zia Roselli,6,1986
+97,Swing Time,Comedy|Musical|Romance,Fredelia Wooster,Anny Reekie,7,2007
+98,Colorado Avenue,Drama,Darlleen Gebuhr,Aylmer Abelov,8,2004
+99,"World of Henry Orient, The",Comedy,Chadwick Necrews,Darda Parr,9,1989
+100,"Cell, The",Drama|Horror|Thriller,Darwin Lethbury,Natalie Friskey,0,1998
+101,Otakus in Love,Comedy|Drama|Romance,Hyman Mynott,Mariel Dawks,1,2008
+102,Tyler Perry's Daddy's Little Girls,Comedy|Romance,Kelci D'eath,Melisandra Becker,2,1999
+103,"Rise and Fall of Legs Diamond, The",Crime,Carmita Shortin,Kinnie Reucastle,3,2004
+104,King Kong Lives,Adventure|Sci-Fi,Sydel Cowland,Kyle Goor,4,1998
+105,"Manzanar Fishing Club, The",Adventure|Documentary,Bryana Fever,Maribel McFarlan,5,2012
+106,Loner (Woetoli),Horror|Thriller,Nealson Fallis,Rowan Mathen,6,2006
+107,"Journey of August King, The",Drama,Darsey MacNeachtain,Paolina Millsap,7,2003
+108,"Silver Chalice, The",Drama|Romance,Bartolemo Maypowder,Seana Karlowicz,8,1981
+109,Miss Granny,Comedy|Fantasy,Latrena McKerley,Michel Sowle,9,2010
+110,Stonewall Uprising,Documentary,Bonnibelle Yellowlees,Issy Ions,0,1995
+111,Ghostbusters (a.k.a. Ghost Busters),Action|Comedy|Sci-Fi,Logan Riddett,Andriette Drabble,1,1994
+112,Big Game,Action|Adventure,Lottie Barta,Kurt Cassam,2,2006
+113,Swing Kids,Drama|War,Lorrie Hindenberger,Korrie Sillars,3,1990
+114,Man's Job (Miehen työ),Drama,Livvyy Peschmann,Lelah Enderle,4,2007
+115,"Substitute, The",Action|Crime|Drama,Costanza Sewley,Jaquelyn Briscow,5,1989
+116,Last Vegas,Comedy|Drama|Romance,Tiffanie Wickey,Silvia Catto,6,2003
+117,Above Suspicion,Thriller,Grissel Hierro,Chelsy Paoletto,7,2002
+118,Albert Nobbs,Drama,Glyn Ruppertz,Junie MacSporran,8,1993
+119,"Student of Prague, The (a.k.a. Bargain with Satan, A) (Student von Prag, Der)",Drama|Horror,Josiah Lawrie,Crissie Twelftree,9,2006
+120,Crazy on the Outside,Comedy|Crime,Adelind Cristobal,Rosaleen Liptrot,0,2000
+121,Ringu 0: Bâsudei,Drama|Horror|Thriller,Zea Chaston,Vinson Brosius,1,1990
+122,One A.M.,Comedy,Fields Sloane,Maryanne Kitchen,2,2011
+123,Mouchette,Drama,Crystie Try,Pincas Le feaver,3,1995
+124,Stray Dogs (Sag-haye velgard),Drama,Ari Rayne,Auberon O' Gara,4,2000
+125,Charlie Chan on Broadway,Comedy|Crime|Mystery|Thriller,Kerwinn Giacoboni,Gwenette Burdytt,5,2006
+126,Possessed (Besat),Action|Crime|Drama|Horror|Thriller,Bonnibelle Gutierrez,Harli D'Alessio,6,1998
+127,Dancer in the Dark,Drama|Musical,Andrea Lisciardelli,Kailey Jakobsson,7,2012
+128,Female Convict Scorpion: Jailhouse 41 (Joshuu sasori: Dai-41 zakkyo-bô),Crime|Drama|Thriller,Ingeborg Hyndman,Mallory Messent,8,2005
+129,Passion Play,Drama|Romance,Marlo Poulglais,Tito Loakes,9,2008
+130,"Collection, The",Action|Horror|Thriller,Saraann Friett,Carney Brea,0,1996
+131,Flawless,Drama,Barry Stearn,Charmine Sabathier,1,2003
+132,12 Rounds 2: Reloaded,Action|Adventure|Thriller,Eleanore Ference,Henriette Mardee,2,2007
+133,Electric Dreams,Comedy|Drama|Romance|Sci-Fi,Ben Topham,Adolf Boutell,3,1997
+134,Away from Her,Drama,Kessia Brooksby,Bronson Tothe,4,2008
+135,Not Your Typical Bigfoot Movie,Documentary,Mallory Poizer,Lezlie Lauridsen,5,1995
+136,Desperado,Action|Romance|Western,Marylynne Dixcee,Armand Bauman,6,1996
+137,V. I. Warshawski,Action|Comedy|Crime,Irene Bellanger,Becky Cowtherd,7,1997
+138,"Dunwich Horror, The",Horror,Daile Breslauer,Elise Gerardet,8,1999
+139,"Night They Raided Minsky's, The (Night They Invented Striptease, The)",Comedy,Reynolds Jeste,Steffie Maggiori,9,1995
+140,Men in War,Drama|War,Dion Cutridge,Baldwin Aberdeen,0,2011
+141,"Loving Father, A (Aime ton père)",Drama,Boigie Ilive,Mirabella Daveley,1,1985
+142,Grouse,Comedy,Yankee Rizzello,Skipp Edlyn,2,2012
+143,The Dependent,(no genres listed),Ketty Seman,Averil James,3,2000
+144,Nina Takes a Lover,Comedy|Romance,Linea De Ferraris,Emmy Mangham,4,2001
+145,Delta Farce,Action|Adventure|Comedy,Zilvia Petts,Rici Chapellow,5,1990
+146,Männerherzen... und die ganz ganz große Liebe,Comedy|Drama|Romance,Neddie Shackell,Annissa Flahy,6,2005
+147,Kids,Drama,Lorne Yearnes,Karina March,7,1997
+148,Sorceress,Action|Adventure|Fantasy,Percy Cullinan,Stacee Klaff,8,1987
+149,Living Will...,Comedy,Morten Tollady,Kendre Witherington,9,2009
+150,Lorenzo's Oil,Drama,Alexi Keddy,Paco Ellings,0,2011
+151,"Dinosaur Project, The",Adventure,Bord Ondrousek,Farand Afield,1,2006
+152,Brazil,Fantasy|Sci-Fi,Blakelee Kirkpatrick,Vasilis Schnieder,2,1986
+153,"Ah of Life, The",Drama|Romance|Sci-Fi,Bill Shackleton,Evania Pickworth,3,1968
+154,Love & Human Remains,Comedy|Drama,Timmie Dewen,Eleanor Conechie,4,2009
+155,Boy Culture,Drama,Morna McFaell,Wileen Boulstridge,5,2011
+156,"Next Karate Kid, The",Action|Children|Romance,Tudor Bravery,Marice Joskowitz,6,2004
+157,Genesis,Drama|Horror,Pauly Camelli,Nady Hartly,7,2006
+158,Bluebeard (Barbe-Bleue),Fantasy,Allix Cleeve,Kevon Boyet,8,1997
+159,The Happy Road,Comedy,Pippy Windram,Danie Geaveny,9,2011
+160,"Legend of Hell House, The",Horror|Thriller,Lucho O'Hearn,Alisa Anthill,0,2012
+161,Balto: Wolf Quest ,Adventure|Animation|Children,Sue Hinchshaw,Veda O'Growgane,1,2005
+162,"Prize of Peril, The (Prix du danger, Le)",Action|Drama,Philly Harewood,Reilly Massow,2,2006
+163,Play,Crime|Drama,Mariska Haslum,Margette Sanham,3,2009
+164,"Swordsman II (Legend of the Swordsman, The) (Xiao ao jiang hu zhi: Dong Fang Bu Bai)",Action|Fantasy,Rina Woodwing,Basilius McHarry,4,2009
+165,Brother (Hermano),Drama,Lester Farr,Kyrstin Bleythin,5,1976
+166,"Unsinkable Molly Brown, The",Musical,Jsandye McDavid,Jilleen Donnelly,6,2010
+167,Machete,Action|Adventure|Comedy|Crime|Thriller,Ellis Sivorn,Luigi Jutson,7,2009
+168,"Cutting Edge: Going for the Gold, The",Comedy|Drama|Romance,Gill Tersay,Annadiana Lowensohn,8,2009
+169,Interceptor,Action|Sci-Fi,Cinnamon Sebert,Louie Vauls,9,2001
+170,Summer of Blood,Comedy|Horror,Fifi Dayce,Wilona Hartford,0,2007
+171,Dimensions of Dialogue (Moznosti dialogu),Animation|Comedy|Fantasy,Celinka Canadas,Nydia Flowerden,1,1993
+172,Marnie,Drama|Mystery|Romance|Thriller,Cecelia de Quesne,Henry Ianittello,2,2006
+173,Picture This,Comedy|Drama|Romance,Lainey Dowthwaite,Brianna Shippard,3,2003
+174,Maya Lin: A Strong Clear Vision,Documentary,Thaddeus Meldrum,Nicola Kobsch,4,1992
+175,Anne of Green Gables,Children|Comedy|Drama,Phedra Dedney,Jere Liptrot,5,1999
+176,Last Summer,Drama,Oby Pitcaithly,Terra Hubbard,6,2003
+177,Asylum,Horror|Thriller,Ulick Nezey,Zedekiah Cleft,7,2007
+178,Debtocracy,Documentary,Winnie Melvin,Dierdre Mitchiner,8,2008
+179,Transamerica,Adventure|Comedy|Drama,Paton Clemmett,North Innot,9,1997
+180,Stories of Lost Souls,Comedy|Drama|Thriller,Gardener Sweetmore,Nathanial Baudet,0,1995
+181,"Man on the Roof, The (Mannen på taket)",Action|Crime|Drama|Thriller,Hastie Philliphs,Loy Malins,1,1992
+182,Embrace of the Vampire,Horror|Thriller,Zachery Scougall,Karim Arnason,2,2010
+183,Entre ses mains,Drama|Romance|Thriller,Oralle Tonn,Jory Dunsford,3,2012
+184,Asfalttilampaat,Drama,Corrianne Macveigh,Kath McGerraghty,4,2003
+185,City by the Sea,Crime|Drama,Mead Caesman,Clywd Adrain,5,2009
+186,Across the Universe,Drama|Fantasy|Musical|Romance,Carine Rowntree,Rosemonde Keunemann,6,1998
+187,Dirty Dozen: The Deadly Mission,Action|Drama|War,Pia Renyard,Janette Rubrow,7,1992
+188,"Wild Blue Yonder, The",Sci-Fi,Eden Malzard,Igor Barnwell,8,2013
+189,It's a Great Feeling,Comedy,Jacinda Tomkins,Lanny Okenden,9,2001
+190,All About the Feathers (Por Las Plumas),Comedy,Roberto Newing,Sisile Desborough,0,2007
+191,TINY: A Story About Living Small,Documentary,Leta Cases,Matelda Schwier,1,1988
+192,All-Star Superman,Action|Adventure|Animation|Sci-Fi,Angie Crankhorn,Hilliard McQuillen,2,2011
+193,RoboCop,Action|Crime|Sci-Fi|IMAX,Edsel Waddams,Mayne Corona,3,2010
+194,"Love Song for Bobby Long, A",Drama,Abrahan Duchant,Alvira Unwins,4,2007
+195,"Frisco Kid, The",Comedy|Western,Lisabeth Metts,Janeczka Keets,5,2009
+196,Lumiere and Company (Lumière et compagnie),Documentary,Matias Armistead,Willette Rosson,6,2007
+197,Shanghai Express,Adventure|Drama|Romance,Kelsey Stennes,Massimo Tomczak,7,2003
+198,Bombay Beach,Documentary|Drama|Musical,Flemming Aves,Francine Oldman,8,2012
+199,Vice,Crime|Film-Noir|Mystery|Thriller,Rad Bresnen,Tedie Licciardo,9,1998
+200,As Cool As I Am,Comedy|Drama,Jozef Mortel,Antoinette Babber,0,1995
+201,Outbreak,Action|Drama|Sci-Fi|Thriller,Juieta Leppington,Bellanca Warrick,1,2003
+202,Kissing a Fool,Comedy|Romance,Marcie Boxe,Alasdair Harrowsmith,2,1991
+203,Lightnin',Comedy|Drama,Clare Edy,Jone Cardello,3,2006
+204,"House Bunny, The",Comedy,Idalina Crack,Remy Culleford,4,2003
+205,Evangelion: 1.0 You Are (Not) Alone (Evangerion shin gekijôban: Jo),Action|Animation|Sci-Fi,Franny Bowskill,Elroy Camelia,5,2010
+206,Red Sands,Action|Horror,Ervin Wallbutton,Filberte Kohrs,6,1990
+207,Panic,Action|Thriller,Ofilia Aubury,Margret Maly,7,2010
+208,Industrial Symphony No. 1: The Dream of the Brokenhearted,Drama,Teddie Troyes,Carlyle Sieb,8,2000
+209,Special,Drama|Fantasy,Brandais Hargie,Shirline Stritton,9,2007
+210,The Lost Continent,Adventure|Fantasy,Johanna Calcraft,Sharleen Downie,0,2002
+211,66 Scenes From America,Documentary,Cindee Bleckly,Arlin Shenfish,1,2004
+212,"Bang Bang Club, The",Drama,Theadora Casel,Bale Gildersleaves,2,1973
+213,"Crucible, The",Drama,Gretchen Rooney,Deb Nason,3,2007
+214,Holes in My Shoes,Documentary,Abba Barthelme,Jilly Bowich,4,2009
+215,"Dog Problem, The",Comedy,Amitie Dennert,Theresa Phippen,5,2008
+216,The Monkey Hustle,Action,Gannon Daynter,Evelina Rubie,6,1985
+217,"Yearling, The",Adventure|Children|Drama,Hobie Grishmanov,Jackie Debold,7,1988
+218,"Circus, The",Comedy,Bryce Whitewood,Loria Nealon,8,1999
+219,Punishment Park,Drama|Thriller,Hephzibah Kenson,Arluene Gethings,9,2001
+220,Happy New Year,Action|Comedy|Crime|Drama|Musical|Romance,Tyrus Dyzart,Ilene Malenoir,0,1996
+221,Fade to Black,Documentary,Elga Fernier,Robin Scolts,1,1987
+222,"Last Time, The",Comedy|Drama|Romance,Joel Arrell,Orlan Becker,2,1987
+223,Letters to God,Children|Drama,Dorey Credland,Hal Lunnon,3,1986
+224,"Happy, Happy (Sykt lykkelig)",Comedy|Drama,Linzy Mouatt,Fernando De la Perrelle,4,2002
+225,Stay,Drama,Davida Ben,Krystle Vigers,5,1993
+226,Volunteers,Comedy,Collette Robic,Westbrook Eccleston,6,2004
+227,Captain America,Action|Drama,Mozelle Raisher,Sallie Bril,7,2008
+228,Heir to an Execution,Documentary,Dorie Dumper,Tersina Abry,8,2011
+229,Bambi,Animation|Children|Drama,Othilie Menier,Chantalle Flagg,9,2012
+230,PK,Comedy|Drama|Fantasy|Mystery|Romance,Ginnifer Sazio,Katy Tolcharde,0,1996
+231,Harishchandrachi Factory,Comedy|Drama,Blancha Rosbrough,Rhona Durham,1,1992
+232,Kill Me Now,Comedy|Horror,Brigg Collingwood,Clarey Reeks,2,2012
+233,"Hacks (Sink or Swim) (Big Twist, The)",Comedy|Mystery,Daron Newiss,Anette Dametti,3,2007
+234,"Surrender, Dorothy",Drama,Melonie Rioch,Aigneis Wellum,4,1990
+235,Full Body Massage,Drama,Gregoire Reside,Becka Ikin,5,2001
+236,"Red Bear, A (Un oso rojo)",Crime|Drama|Thriller,Rosalinde Deluce,Montague Sivess,6,1994
+237,I Accuse,Crime|Drama|Thriller,Genia Targe,Alonso Ramirez,7,1998
+238,Mr. Destiny,Comedy|Fantasy,Maisey Ludovico,Paten Filshin,8,2012
+239,Children in the Wind (Kaze no naka no kodomo),Drama,Brita Valero,Pooh Thandi,9,2010
+240,IMAX: Hubble 3D,Documentary|IMAX,Roderich Boydon,Nestor Decourt,0,2007
+241,DarkWolf,Horror,Tabatha Stiger,Myrah Caplis,1,2008
+242,Austin Powers: The Spy Who Shagged Me,Action|Adventure|Comedy,Herman Waistell,Carmon Zupone,2,1989
+243,Ghosts of Mississippi,Drama,Nerita Klimas,Osborn Kitchinham,3,2006
+244,Naked Souls,Sci-Fi|Thriller,Essa Lounds,Birk Climo,4,1995
+245,Breakin' 2: Electric Boogaloo,Musical,Julie Hartus,Vincents Hauxwell,5,1999
+246,"Yakuza, The",Drama,Wilfred Greated,Allix Macey,6,2005
+247,Tetsuo III: The Bullet Man,Action|Horror|Sci-Fi,Leilah Gittings,Tiertza Rayner,7,2006
+248,Half Moon (a.k.a. Niwemang),Drama|War,Philomena Crees,Barny Tinton,8,2000
+249,Don't Deliver Us from Evil (Mais ne nous délivrez pas du mal),Drama|Horror,Rosalinde Kennicott,Gleda Hawkslee,9,1993
+250,Shock and Awe: The Story of Electricity,Documentary,Rosette Bahls,Harper Dummer,0,2007
+251,"Mariachi, El",Action|Crime|Thriller|Western,Vaughan Lundie,Frannie Bourges,1,1998
+252,Room Service,Comedy,Catrina Keoghan,Warde Borrott,2,2005
+253,Bloodline,Horror,Dacie Pretley,Almira Lafrentz,3,2010
+254,Charlotte Gray,Drama|Romance,Flori Twycross,Wini Lummis,4,2010
+255,"Waiting Room, The",Drama|Romance,Judy MacKettrick,Jacquetta McRinn,5,1996
+256,"Angry Silence, The",Drama,Patrick Slark,Shae Foden,6,1992
+257,Bloody Territories (Kôiki bôryoku: ryuuketsu no shima),Action|Crime,Ernestus Simkovich,Lauri Huggill,7,2002
+258,Pray the Devil Back to Hell,Documentary,Moe Philipard,Tildi Josebury,8,2003
+259,"Elephant Man, The",Drama,Pegeen Atwool,Davin Hawarden,9,2010
+260,Candyman: Farewell to the Flesh,Fantasy|Horror,Claus Serman,Darcee Skough,0,2005
+261,"House of Seven Corpses, The",Horror,Tate Aubrey,Griffith Fishleigh,1,1984
+262,Uncle Sam,Horror,Jarrett Hasted,Ada Muglestone,2,2010
+263,Laissons Lucie faire !,(no genres listed),Miles Cappell,Jeremias Yandle,3,1994
+264,Here Comes the Groom,Comedy|Musical|Romance,Patsy Hainey`,Scarface Meert,4,1996
+265,Paperhouse,Fantasy|Horror|Thriller,Grantley Batty,Malia Heustice,5,2012
+266,Paris Was a Woman,Documentary,Diarmid Cockill,Emmit Menelaws,6,1995
+267,12th & Delaware,Documentary,Alisun Arnet,Shelton Carberry,7,2006
+268,Eye of the Tiger,Action,Derwin Dewar,Carin Leghorn,8,2006
+269,"Matador, The",Comedy|Drama|Thriller,Gustavo Helix,Mel Storr,9,2000
+270,Pot O' Gold,Comedy|Musical,Foss Leynham,Rachel Moyle,0,2010
+271,"Corridors of Time: The Visitors II, The (Couloirs du temps: Les visiteurs 2, Les)",Children|Comedy|Fantasy|Sci-Fi,Hobey Rodder,Datha Arpino,1,2006
+272,Carrington,Drama|Romance,Aldo Popplewell,Gaelan Begley,2,1991
+273,To Live and Die in L.A.,Action|Crime|Drama|Thriller,Winfield Keays,Russ Jahnel,3,2001
+274,Another 48 Hrs.,Action|Comedy|Crime|Drama|Thriller,Bethanne Lefwich,Cristy Charters,4,1993
+275,"I Want a Dog for Christmas, Charlie Brown",Animation|Children|Comedy,Alexine Nation,Alphonse Stuck,5,1997
+276,Valley Girl,Comedy|Romance,Adrian Satchel,Mada Abson,6,1992
+277,Paisan (Paisà),Drama|War,Valentine Ellse,Rosene Carillo,7,2000
+278,Everybody Wants to Be Italian,Comedy|Romance,Ninon MacInnes,Jereme Kenward,8,2003
+279,No Man's Land,Drama|War,Fulvia Hackleton,Enrika Lalevee,9,2001
+280,Witch's Night Out,Animation|Children,Garrett O' Cuolahan,Noll Yakubowicz,0,2007
+281,"Last Klezmer: Leopold Kozlowski, His Life and Music, The",Documentary,Thomas Richardes,Muire Barszczewski,1,1993
+282,"No God, No Master",Crime|Drama|Thriller,Rozanna Waye,Dionisio Enos,2,1990
+283,Fill the Void (Lemale et ha'halal),Drama,Vinny Jimson,Naomi Barneville,3,2009
+284,Chang: A Drama of the Wilderness,Adventure|Documentary,Thoma Aleshkov,Guglielmo Crayke,4,2003
+285,Dear Mr. Watterson,Documentary,Jasper Launchbury,Laina Krout,5,2009
+286,Stuart Saves His Family,Comedy,Ely Milburn,Erasmus Brearley,6,1995
+287,Americathon,Comedy|Sci-Fi,Robin Wiltshaw,Aldridge Border,7,1998
+288,Oblivion,Action|Adventure|Sci-Fi|IMAX,Holli Adamo,Ryann Alvar,8,1996
+289,"Lesser Blessed, The",Drama,Lonnard Beautyman,Jenilee Tomadoni,9,1993
+290,Make Mine Music,Animation|Children|Musical,Libbey Tiffney,Sharity Bramstom,0,2013
+291,Vai~E~Vem,Comedy|Drama,Herminia Roots,Amata McRory,1,2008
+292,Human Resources (Ressources humaines),Drama,Basil McAlindon,Merci Meece,2,2002
+293,Seventh Horse of the Sun  (Suraj Ka Satvan Ghoda),Drama|Romance,Victoria Catford,Richy Rignall,3,1992
+294,"Prefab People, The (Panelkapcsolat)",Drama,Arabele Kubis,Andriana Pulsford,4,1998
+295,"Remember the Daze (Beautiful Ordinary, The)",Comedy|Drama,Evvy Trillo,Ethelyn Kedwell,5,1999
+296,Police Academy 3: Back in Training,Comedy|Crime,Eugenius Nabbs,Antons Doubleday,6,2010
+297,"Stranger's Heart, A",Drama,Arnold Gerrens,Cissiee Lesmonde,7,1987
+298,Octane,Horror|Thriller,Suzann Brader,Mommy Stancer,8,2001
+299,Infection (Kansen),Drama|Horror,Tracey McGhee,Velvet Bushell,9,1994
+300,American Gun,Drama,Paulina Guisler,Broderic Ledgeway,0,1999
+301,Amos & Andrew,Comedy,Hartley Lovekin,Venita Pellant,1,2012
+302,"Heirloom, The (Zhai Ban)",Drama|Horror,Barry Heustace,Neddie Dwyer,2,1997
+303,Etoiles: Dancers of the Paris Opera Ballet (Tout Près des étoiles),Documentary|Musical,Sydelle Gothard,Donica Snelgar,3,2006
+304,Until the End of the World (Bis ans Ende der Welt),Adventure|Drama|Sci-Fi,Delphinia Samber,Aguie Scandrite,4,2004
+305,Pretty Baby,Drama,Susanna Jakovijevic,Gregoor Tompkiss,5,2004
+306,Payday,Drama,Ange Altimas,Rafaello Baline,6,1996
+307,They Were Expendable,Drama|War,Crysta Branca,Judi Slimming,7,2009
+308,Run Silent Run Deep,War,Francine McSporon,Granthem Betonia,8,1992
+309,"Strangers, The",Horror|Thriller,Manolo Wesson,Cherry Dilworth,9,2002
+310,August,Drama,Ricardo Kindley,Glynis Clinnick,0,2006
+311,Caught,Drama|Film-Noir,Berne Shepeard,Loraine Lowthian,1,2006
+312,Love & Savagery,Drama|Romance,Guthry Pearsey,Marget Starmer,2,2011
+313,Shorts,Children,Dannye Gillion,Jamie Messitt,3,1967
+314,Signs & Wonders,Drama,Rosette Crich,Clementina Brok,4,2011
+315,Missionary Man,Action|Drama|Thriller|Western,Ramsey Morrid,Colline Flukes,5,1993
+316,Infection (Kansen),Drama|Horror,Mac Townshend,Carleton Crisell,6,1992
+317,Meltdown: Days of Destruction,Action|Sci-Fi|Thriller,Evvy Daffey,Homere Grinsted,7,1986
+318,Moll Flanders,Drama,Tony Marages,Sandie Ciciotti,8,2002
+319,"Deathmaker, The (Totmacher, Der)",Crime|Drama,Carline Henriet,Tris Medcalf,9,2006
+320,Dragon Fist (Long quan),Action|Drama,Germana Grichukhin,Fan Lorriman,0,2012
+321,"Sea, The (Hafið)",Drama,Judah Pady,Shayne Roderick,1,2003
+322,King of the Zombies,Comedy|Horror,Walden Kingzett,Justis Frenchum,2,1992
+323,Donkey Punch,Horror|Thriller,Portia Thompstone,Peria Guillain,3,1988
+324,"Falls, The",Drama|Sci-Fi,Brittney Schenkel,Denny Hurrell,4,2005
+325,Damnation (Karhozat),Drama|Film-Noir,Lurleen Cleghorn,Noelani Kemshell,5,2003
+326,Adrenalin: Fear the Rush,Action|Sci-Fi,Conan Sidebottom,Dawna Waterstone,6,2001
+327,Hamlet,Drama,Kenna Brockett,Chelsey Cicculi,7,2004
+328,"Man with the Movie Camera, The (Chelovek s kino-apparatom)",Documentary,Ivar Alphege,Othilia Suero,8,2013
+329,Branded to Kill (Koroshi no rakuin),Action|Crime|Drama,Renelle Samwell,Haroun Laboune,9,1992
+330,Eddie Izzard: Circle,Comedy,Gwyneth Lefley,Kamila Maytum,0,1991
+331,Higher Ground,Drama,Liesa Heam,Danni Mercey,1,1998
+332,Carless Love,Drama,Stanislas Benge,Layney Seal,2,1957
+333,Snake Woman's Curse,Horror,Cornall Nockells,Chelsie Findon,3,2010
+334,Recess: School's Out,Animation|Children,Colleen Petrasso,Kristoforo Izzatt,4,2006
+335,Apt Pupil,Drama|Thriller,Fredelia Rosbotham,Gael Fonso,5,1989
+336,Clown,Drama|Horror,Stephanus Kacheller,Enrico Archley,6,2008
+337,Test Pilot,Drama|Romance,Cissiee Silverton,Sibyl McFarlan,7,2007
+338,Dunston Checks In,Children|Comedy,Lonni Mansell,Amaleta Olyfat,8,2011
+339,Bye-Bye Bin Laden,Animation|Comedy,Felice Kirby,Maggi Andrejs,9,1995
+340,Meet Joe Black,Romance,Liliane Saltsberg,Pearline Lyburn,0,1991
+341,"Green Pastures, The",Drama,Meredithe Momford,Paule Tompsett,1,1987
+342,Germinal,Drama|Romance,Inger O'Growgane,Charmain Dungay,2,2010
+343,Männerherzen... und die ganz ganz große Liebe,Comedy|Drama|Romance,Jock Huffer,Cherise Legonidec,3,2007
+344,"Illusionist, The (L'illusionniste)",Animation,Sidnee Lubman,Paco Whitfeld,4,2005
+345,Sleeping with Other People,Comedy,Johnny Jaimez,Janos Abramof,5,1997
+346,"Khroustaliov, My Car! (Khrustalyov, mashinu!)",Comedy|Drama,Lincoln Lowen,Charlene Siviter,6,1990
+347,Waiting for Happiness (Heremakono),Drama,Vere Dimitresco,Hewe Exall,7,2011
+348,Sayonara,Drama,Felita Bantham,Pepito Giffin,8,1998
+349,Listy do M.,Comedy|Romance,Gallagher Swyer-Sexey,Kennith Tilt,9,1984
+350,"Eye for an Eye, An (Oeil pour oeil) (Eyes of the Sahara)",Drama,Portia McCray,Cyndi Eyree,0,1999
+351,Camille,Drama|Romance,Randee Begent,Alessandro Bernli,1,2012
+352,I Dream Too Much,Comedy|Musical|Romance,Cassandry Cruft,Jeremie Dench,2,1999
+353,Manny & Lo,Drama,Brittaney May,Colet Fossick,3,2000
+354,Dante's Inferno,Action|Drama,Lisha Jaze,Karel Qualtrough,4,2003
+355,Dark Alibi,Crime|Drama|Mystery|Thriller,Willetta Perschke,Vincenty Borzoni,5,2001
+356,Police Academy 5: Assignment: Miami Beach,Comedy|Crime,Stormy Rottger,Fernando Atherley,6,2009
+357,"Man Who Left His Will on Film, The (Tôkyô sensô sengo hiwa)",Drama,Philippine Kinsley,Leodora Nolli,7,2007
+358,Ten Minutes Older: The Trumpet,Drama,Susi Seaborne,Athena Jordi,8,2003
+359,"Day I Became a Woman, The (Roozi khe zan shodam)",Drama,Leanor Cuming,Land Philpin,9,1996
+360,"Mating Game, The",Comedy|Romance,Gene Eustanch,Berty Iacopini,0,2000
+361,"Gorgon, The",Fantasy|Horror|Mystery,Parker Smittoune,Nona Klosser,1,2001
+362,"Kid Stays in the Picture, The",Documentary,Blake Kestian,Adelaida Venneur,2,1999
+363,Jeffrey,Comedy|Drama,Frederik Glenn,Sibel Belasco,3,2009
+364,"Nomi Song, The",Documentary|Musical,Edmon Louiset,Patric Jedryka,4,2011
+365,Caesar and Cleopatra,Comedy|Drama|War,Carma Blunt,Elvin Langeren,5,1995
+366,America 3000,Action|Adventure|Sci-Fi,Sascha Artus,Mychal Lagen,6,2010
+367,Boxcar Bertha,Drama,Ofilia Kieff,Benoit O' Culligan,7,2008
+368,Great Directors,Documentary,Rodolphe Lomb,Skelly Weatherill,8,2012
+369,Miffo,Comedy|Drama|Romance,Iseabal Guille,Lynette Ragg,9,1993
+370,"Bleeding House, The",Drama|Horror|Mystery|Thriller,Philippe Falkus,Terrye Spedroni,0,2003
+371,"Maria Full of Grace (Maria, Llena eres de gracia)",Crime|Drama,Lorry Sallnow,Fidel Borg,1,2008
+372,Skyjacked,Action|Thriller,Blondy McRannell,Emilee Theurer,2,1988
+373,Faat Kiné,Comedy|Drama,Gib Orred,Hugh Possek,3,1983
+374,"Young Philadelphians, The",Drama,Anthea Routh,Lu Petrovic,4,2006
+375,Scorned,Thriller,Nathalia Bettesworth,Konstance Yendle,5,1964
+376,Elvis and Anabelle,Drama|Romance,Abby Boatwright,Bryant Kubyszek,6,2009
+377,The Evictors,Crime|Drama|Horror|Mystery|Thriller,Nonie Geering,Othilia Restall,7,2003
+378,Rabid Dogs (Kidnapped) (Cani arrabbiati),Drama|Thriller,Linus Camelia,Skipper Dewdeny,8,2010
+379,"Yoo-Hoo, Mrs. Goldberg",Documentary,Brigit Wildbore,Rem Romaynes,9,1991
+380,Sunset Strip,Documentary,Jill Czyz,Adrian Lamport,0,1996
+381,"Little Thief, The (La petite voleuse)",Crime|Drama|Romance,Britteny Holligan,Devondra Higgonet,1,2000
+382,"Spirit of '76, The",Comedy|Sci-Fi,Gwyneth Duling,Jacynth Sjollema,2,1998
+383,Laissons Lucie faire !,(no genres listed),Giselle Fain,Jan Shurey,3,2005
+384,Shaft in Africa,Action|Crime,Nikita Bridgestock,Antonietta Penkethman,4,1986
+385,3 Women (Three Women),Drama,Diane-marie Layson,Ysabel Cassius,5,2006
+386,Grace,Horror|Thriller,Tessa Clementson,Culver Kitman,6,1999
+387,Don't Think About It (Non Pensarci),Comedy|Drama,Ruth Almon,Richie Skeat,7,2009
+388,Camarón: When Flamenco Became Legend,Drama,Coretta McGrey,Clio Holsall,8,1995
+389,The Forest,Drama|Fantasy,Bartholomeus Uzielli,Jordana Vickers,9,2007
+390,Another Cinderella Story,Children|Comedy|Musical|Romance,Maudie Tandey,Dorthea Gapper,0,1993
+391,Trouble Bound,Action|Comedy,Dell Lapish,Hillie Birks,1,1997
+392,Magic Man,Crime|Mystery|Thriller,Deanna Brameld,Jorey Blazeby,2,1993
+393,Tension,Crime|Drama|Film-Noir|Romance,Tish Shill,Quinton Sandeland,3,1993
+394,Dust to Glory,Action|Adventure|Documentary,Giulietta Risebarer,Townie Hiland,4,2005
+395,Cut and Run (Inferno in diretta),Adventure|Horror|Thriller,Carlye Newnham,Regan Papes,5,1994
+396,Three Seasons,Drama,Raynell Hazeldene,Katusha Adamini,6,1994
+397,"Holy Innocents, The (Santos inocentes, Los)",Drama,Lani Chastey,Winnie Marfield,7,1990
+398,Magnum Cop,Thriller,Daphene Venner,Ardene Di Francecshi,8,2005
+399,Shadow Man,Action,Cecil Glinde,Ulrike Newis,9,1995
+400,And Then Came Lola,Comedy|Drama|Romance,Liva Groombridge,Henrik Dearsley,0,2011
+401,"Toxic Avenger, The",Comedy|Horror,Kalli Trelease,Prue Brambley,1,2004
+402,Danika,Drama|Horror|Thriller,Veradis Armsby,Vidovic Kebbell,2,2010
+403,Quartet,Drama|Romance,Em Pauling,Yevette Beincken,3,2009
+404,"Natural, The",Drama,Silvanus Germaine,Ellen Matteoni,4,1989
+405,"Ballad of Narayama, The (Narayama bushiko)",Drama,Natale Cattanach,Rivkah Marioneau,5,2007
+406,"Day of the Jackal, The",Crime|Thriller,Bonny Milam,Conant Quarton,6,2009
+407,"Bling Ring, The",Drama,Lindsay Chaudhry,Launce Zimmerman,7,2009
+408,About Last Night,Comedy|Romance,Peirce Langcaster,Hagan Scriviner,8,2001
+409,Inuyasha the Movie: The Castle Beyond the Looking Glass,Action|Animation|Comedy|Romance,Kettie Dives,Giacopo Andresser,9,1992
+410,Piranha II: The Spawning,Horror|Sci-Fi,Gaynor Massey,Lacy Kelsow,0,1994
+411,"Well Digger's Daughter, The (La fille du puisatier)",Comedy|Drama|Romance,Florrie Staton,Tatum Cossentine,1,2001
+412,Men of Honor,Drama,Sarge Yeude,Sergio Dallicoat,2,2003
+413,On the Road,Adventure|Drama,Winonah Langston,Kirstin O' Donohoe,3,1989
+414,Paradise,Romance,Rosabelle Narbett,Blinni Kell,4,1994
+415,Cleanskin,Crime|Drama|Thriller,Daron Grahlmans,Hester Devote,5,2011
+416,Oliver Twist,(no genres listed),Sibella Bollam,Francyne Lindmark,6,2009
+417,Flaming Star,Western,Annetta Fosken,Gilbert Kleinstub,7,1992
+418,Sharktopus,Action|Horror|Sci-Fi,Darsey Rapps,Ivar Insull,8,1997
+419,"Gathering of Old Men, A (Murder on the Bayou)",Drama,Sam Marmon,Tallou Borkin,9,2009
+420,Confidential Agent,Drama|Thriller,Juieta Carlton,Hayes Brockest,0,2000
+421,Shadow of a Doubt,Crime|Drama|Thriller,Tracy Force,Kippar Dearsley,1,1996
+422,Space Truckers,Comedy|Sci-Fi,Fabien Carverhill,Gerty Lorincz,2,2012
+423,Comedy of Innocence (Comédie de l'innocence),Drama|Thriller,Berenice MacPaike,Tammi Yashin,3,2012
+424,"Last Bolshevik, The (Tombeau d'Alexandre, Le)",Documentary,Bail Hannigane,Marsha Garmons,4,2010
+425,Storm Center,Drama,Jordanna Streatley,Rog Mapledorum,5,2011
+426,Henry Poole is Here,Drama|Mystery,Evita Leaman,Eal Dickon,6,1997
+427,"Incredible Hulk, The",Action|Sci-Fi,Darb Brambill,Charita Sturgis,7,2012
+428,Judge Dredd,Action|Crime|Sci-Fi,Reeba Baudassi,Grace Fellow,8,2001
+429,"Wizard of Baghdad, The",Comedy|Fantasy|Musical,Iosep Hawkswood,Bekki Challin,9,2001
+430,"Way We Were, The",Drama|Romance,Had Paskins,Calley Schreurs,0,2000
+431,Toys,Comedy|Fantasy,Nettie Bennellick,Damien Newcome,1,2007
+432,Elizabeth: The Golden Age,Drama,Neal Batty,Zorine Debling,2,1996
+433,Where Is the Friend's Home? (Where Is My Friend's House?) (Khane-ye doust kodjast?),Drama,Benedicta Pitceathly,Lamond Gout,3,2009
+434,Skipped Parts,Drama|Romance,Neely Montilla,Alfy Cowell,4,2009
+435,Bal (Honey),Drama,Moises Ashworth,Ethelyn Chatres,5,2001
+436,Angels & Demons,Crime|Drama|Mystery|Thriller,Domenic Monkley,Caddric Wase,6,2010
+437,Tillie's Punctured Romance,Comedy,Marijo Berthelmot,Cristie Coverdill,7,1990
+438,Sometimes They Come Back... Again,Horror,Ermina Stoter,Adham Dericut,8,2009
+439,52 Pick-Up,Action|Mystery|Thriller,Rory Chirm,Bjorn De Mattei,9,2001
+440,"Fall, The",Adventure|Drama|Fantasy,Nathanial Fillgate,Dianemarie Mullard,0,2005
+441,"Andromeda Strain, The",Mystery|Sci-Fi,Engracia Crossfeld,Kissiah Axtens,1,2002
+442,Madagascar: Escape 2 Africa,Action|Adventure|Animation|Children|Comedy|IMAX,Lindsay Gambell,Delinda Tregent,2,2010
+443,Fear,Horror|Thriller,Henrietta Attaway,Ingar Larn,3,2008
+444,Kai Po Che!,Drama,Nesta Liepina,Romy Taft,4,1990
+445,Nothing,Comedy|Fantasy|Mystery|Sci-Fi,Jobina Verzey,Emmeline Strongitharm,5,2000
+446,"Shadow Riders, The",Romance|Western,Shane Towe,Candy Friary,6,1993
+447,"Prisoner of Zenda, The",Adventure|Comedy,Malynda Haselup,Happy Stoyles,7,1992
+448,Avalon,Drama,Cirillo Aiston,Juan Girardoni,8,2000
+449,"Quiet Duel, The (Shizukanaru ketto)",Drama,Willdon Chadbourne,Gabriello Serchwell,9,1999
+450,"Perez Family, The",Comedy|Romance,Maressa Serraillier,Francene Marzellano,0,2003
+451,Lips of Blood (Lèvres de sang),Horror,Sibylle Aldersley,Lela Rivallant,1,1967
+452,"Tale of Winter, A (a.k.a. A Winter's Tale) (Conte d'hiver)",Drama,Edna Stelfox,Klara Beminster,2,2005
+453,Silent Light (Stellet licht),Drama,Ephrem Heckle,Veradis Clamp,3,2012
+454,My Awkward Sexual Adventure,Comedy,Christy Adamo,Ladonna Vallantine,4,1992
+455,"Court-Martial of Billy Mitchell, The",Drama|War,Nicola Render,Donavon Loosely,5,2012
+456,Leap Year,Comedy|Romance,Lemmie Trewin,Francisca Kebell,6,1999
+457,Milky Way (Tejút),(no genres listed),Killy McCreery,Adelina McDuffie,7,2008
+458,Shadow Magic,Drama|Romance,Bernadine Hedau,Urbain Josefovic,8,2005
+459,Young Adult,Comedy|Drama,Fancie Willford,Mikey Tolomio,9,2007
+460,Red Obession,Documentary,Ivett Bisterfeld,Leonanie Bleesing,0,2002
+461,Sasquatch: The Legend of Bigfoot,Adventure|Mystery,Meagan Sabatini,Dora Davydzenko,1,1995
+462,Devil Times Five (a.k.a. Peopletoys),Horror,Heinrik McKillop,Verna Rodgerson,2,2001
+463,"Debt, The",Drama|Thriller,Juana Caseri,Gustav Scarlon,3,2008
+464,Kvarteret Skatan reser till Laholm,Comedy,Collin Murrthum,Gaelan Eaken,4,2006
+465,"Worthless, The (Arvottomat)",Crime|Drama,Trisha Bairstow,Dane Malkie,5,1990
+466,"Fiendish Plot of Dr. Fu Manchu, The",Comedy,Chase Aleksandrev,Gerti Willarton,6,1994
+467,Opera Jawa,Musical,Murray Kiezler,Abbie Trill,7,1997
+468,First Squad: The Moment of Truth,Action|Animation|Drama|War,Derby Berrane,Daryle Cartmale,8,2010
+469,Goliath Awaits,Drama|Sci-Fi|War,Chickie Darbon,Klement Studholme,9,1995
+470,Prisoners of the Lost Universe,Action|Adventure|Sci-Fi,Suellen Ethersey,Nikki Sollis,0,1996
+471,Mud,Adventure|Crime|Drama,Wrennie Flement,Tera Laughton,1,2011
+472,My First Mister,Comedy|Drama,Bride Silwood,Larisa Tatchell,2,2004
+473,"Dark Truth, A (Truth, The)",Drama|Thriller,Rinaldo Fleury,Cindee Ratnage,3,2006
+474,Wartorn: 1861-2010,Documentary|War,Salomone De Morena,Eddi Muddiman,4,2007
+475,Frequently Asked Questions About Time Travel,Comedy|Sci-Fi,Garrick Claris,Roselle Gibbens,5,2006
+476,For the Moment,Romance|War,Amaleta Farmer,Rodolphe Glasper,6,2005
+477,Beloved (Les bien-aimées),Drama|Musical|Romance,Agnese Frizell,Stillmann Gerhold,7,2009
+478,Stalag Luft,Comedy|Drama|War,Forster McDonagh,Isobel Arch,8,1992
+479,Walter,Drama,Timmy Stonebanks,Reeba Freeborn,9,2009
+480,"Low Down, The",Drama,Darius Lauder,Catherina Kloss,0,2011
+481,Il Capitano,Drama,Dorolisa O'Doherty,Roseann Stockoe,1,2011
+482,Juha,Comedy|Drama|Romance,Hester Apfler,Mic Grishukov,2,1991
+483,Reprise,Drama,Molly Fuzzey,Vilhelmina Manger,3,1992
+484,"Soldier, The",Action,Wendi Shawe,Maxim Yitzovicz,4,1968
+485,Stoic,Drama,Josi Alston,Barbabra Riddall,5,1986
+486,Triad Underworld (Gong wu) (Jiang Hu),Action|Crime|Drama,Granthem Trumble,Urbain Curthoys,6,2012
+487,Undisputed,Drama,Barbi Massot,Garrott Stutter,7,1984
+488,EXPO: Magic of the White City,Documentary,Pen Bril,Bobbie Kierans,8,1985
+489,Eve's Bayou,Drama,Timmi Feldhorn,Gipsy Kuhn,9,2012
+490,"Bat, The",Mystery|Thriller,Winna Sinden,Paddy Dorrins,0,1993
+491,Aliyah (Alyah) ,Drama,Rudiger Pulham,Dynah Delacourt,1,2011
+492,Pokémon the Movie: White - Victini and Zekrom,Animation,Werner Corradengo,Tobie Sex,2,1989
+493,Hangtime - Kein leichtes Spiel,Drama,Olly Maccree,Stevena Keaysell,3,2005
+494,Midnight in the Garden of Good and Evil,Crime|Drama|Mystery,Quinn Tolland,Charissa MacNeely,4,1990
+495,Neurons to Nirvana,Documentary,Marielle Walczak,Wendell Elijah,5,1986
+496,Everly,Action|Thriller,Stephanie Isaak,Doralyn Greystoke,6,2006
+497,"Dog's Life, A",Comedy,Arabelle Carlett,Sapphira Risborough,7,1993
+498,Stray Cat Rock: Sex Hunter (Nora-neko rokku: Sekkusu hanta),Crime,Martino Zannotelli,Vickie Nezey,8,1987
+499,King Kong Lives,Adventure|Sci-Fi,Moselle Costello,Dolli Dubery,9,2010
+500,Barbarians at the Gate,Drama,Malanie Condliffe,Sonnnie Valerio,0,1998
+501,Notorious,Drama|Musical,Chloe Gricewood,Man Longdon,1,1999
+502,Klip (Clip),Drama|Romance,Nefen Danis,Lula Hynde,2,2011
+503,"Honey, I Blew Up the Kid",Children|Comedy|Sci-Fi,Corby Doerr,Jo ann Caulwell,3,1983
+504,WW III: World War III (Der 3. Weltkrieg),Documentary|War,Malcolm Scotchmoor,Valentina Wands,4,1996
+505,Charlie Bartlett,Comedy|Drama,Emelen Hamerton,Berk De Paepe,5,2008
+506,I Heart Huckabees,Comedy,Cedric Blais,Vick Stoker,6,1985
+507,"Greatest, The",Drama|Romance,Anselm Ivashinnikov,Vernen Matthensen,7,1993
+508,"Elementary Particles, The (Elementarteilchen)",Drama|Romance,Mattheus Gaw,Kingsly Eastgate,8,2005
+509,Harry in Your Pocket,Comedy|Crime|Drama,De Boddice,Rita Whittingham,9,2007
+510,"Ilsa, She Wolf of the SS",Horror,Dorian McCarron,Dario Fosh,0,1996
+511,Aliens in the Attic,Adventure|Children|Fantasy|Sci-Fi,Marylynne Klousner,Maris Jezzard,1,2012
+512,Antwone Fisher,Drama,Pauline Ferry,Gwenny Darlington,2,1999
+513,My Blue Heaven,Comedy,Sandy Berston,Jonathan Sully,3,2009
+514,Extraction,Action,Norry Androck,Brett Rimes,4,2011
+515,Mumford,Comedy|Drama,Ogden Dhillon,Anthony Leeming,5,2011
+516,"Moment to Remember, A (Nae meorisokui jiwoogae)",Drama|Romance,Edee Sollowaye,Rubi Hayman,6,2003
+517,Darkness,Horror|Mystery,Halie Parken,Kara-lynn Napier,7,2011
+518,Crush,Drama,Brucie Merry,Valentine Paxeford,8,2003
+519,Pauly Shore Is Dead,Comedy,Raynell Maltby,Melitta O'Hagirtie,9,2009
+520,Paris,Comedy|Drama|Romance,Alvinia Cavan,Benedetta Overnell,0,2005
+521,Ffolkes,Action|Adventure|Thriller,Abdel Hardison,Cord Marieton,1,1992
+522,Outside the Law (Hors-la-loi),Crime|Drama|War,Hardy Sneyd,Clarissa Bugge,2,2010
+523,Dickson Experimental Sound Film,Musical,Justinn Guirau,Susana Heading,3,2011
+524,"Bingo Long Traveling All-Stars & Motor Kings, The",Comedy,Peggie Yukhov,Roderigo Ambrosini,4,1995
+525,Fate (Yazgi),Drama,Rahal Stelli,Kele Alyukin,5,1995
+526,"Other Side of Midnight, The",Drama|Romance|Thriller,Welby Larkkem,Si Iscowitz,6,2006
+527,We Still Kill the Old Way,Crime,Antons Bleythin,Caresse Immins,7,1995
+528,"Exorcism of Emily Rose, The",Crime|Drama|Horror|Thriller,Earvin Suddell,Justinian California,8,1985
+529,College Road Trip,Comedy,Carlee Colkett,Shannah Jedrysik,9,1994
+530,Fortress,Action|Thriller,Gareth Gaunson,Liana Tomkies,0,2005
+531,Littlerock,Drama,Inglebert Measures,Avie Terese,1,2001
+532,Crossfire Hurricane,Documentary|Musical,Daune Ferryman,Say Courtney,2,1992
+533,Force of Evil,Film-Noir,Claudia Julien,Skipp MacCarroll,3,2011
+534,Loving,Comedy|Drama,Marlo Portam,Kristan Good,4,2009
+535,Drugstore Cowboy,Crime|Drama,Fawnia McEvon,Germaine Bavin,5,2002
+536,Windtalkers,Action|Drama|War,Edouard Ryal,Corny Duguid,6,2003
+537,Harakiri (Seppuku),Drama,Dody McCurdy,Yankee Mayou,7,2003
+538,"Brave, The",Drama,Dud Martinovsky,Daven Hull,8,1998
+539,Doomwatch,Mystery|Sci-Fi|Thriller,Andras Skupinski,Park Winwright,9,1996
+540,Fullmetal Alchemist: The Sacred Star of Milos,Action|Adventure|Animation,Vassili Jandac,Conway Szantho,0,2009
+541,"Last Taboo, The",Documentary,Rodd Brandin,Levon Vagges,1,2008
+542,"Hawk Is Dying, The",Drama,Nollie Bushell,Aland Androlli,2,2002
+543,Peppermint Candy (Bakha satang),Drama,Corinna Dukesbury,Shaylyn Newlove,3,1992
+544,May,Drama|Horror,Giselbert Mechi,Dall O'Lenane,4,1994
+545,Curse of the Puppet Master (Puppet Master 6: The Curse),Horror|Sci-Fi|Thriller,Dorothea Maddams,Jehu Rutgers,5,2010
+546,Top Gun,Action|Romance,Sherwood Kalderon,Gus Barrowcliffe,6,1992
+547,"Good Woman, A",Comedy|Drama|Romance,Carol-jean Lorenzetti,Jobey Dovermann,7,2013
+548,Clerks,Comedy,Glynn Spaice,Babita Dunbleton,8,2010
+549,Fandango,Comedy,Leticia Beidebeke,Gerladina Novacek,9,1996
+550,Adore,Drama|Romance,Casie Stigers,Virgie Thornham,0,2011
+551,"Iron Rose, The (Rose de fer, La)",Horror,Gerardo Sherwyn,Hugibert Ashbe,1,1995
+552,Equinox,Adventure|Horror|Mystery,Inigo Campagne,Lani Ubank,2,1994
+553,Antique (Sayangkoldong yangkwajajeom aentikeu),Comedy|Drama,Stanton Jochanany,Julia Stovin,3,2003
+554,"Last House on the Left, The",Drama|Horror|Thriller,Aloin Handford,Ethelred Tearney,4,1995
+555,"Patience Stone, The",Drama|War,Carlen Schout,Nathanial Towhey,5,1994
+556,Gitmo,Documentary,Katina Meritt,Tito McIlraith,6,2008
+557,Ladies of Leisure,Romance,Lilla Mico,Crissy Scullard,7,2012
+558,Over the Edge,Crime|Drama,Kristyn Horbath,Minda Hanham,8,1992
+559,Splash,Comedy|Fantasy|Romance,Kyle Hawken,Lorry Coventry,9,2003
+560,Dames,Comedy|Musical,West Hambright,Teresa Pinshon,0,1988
+561,Howard Zinn: You Can't Be Neutral on a Moving Train,Documentary,Antony Standley,Kalina Tidman,1,2004
+562,Snakes and Earrings (Hebi ni piasu),Drama|Thriller,Mollee Trayhorn,Laurene Grigoriev,2,2001
+563,Miss Météo,Comedy|Drama,Gerianne Littlefield,Eudora Ciccottini,3,2012
+564,Dry Summer (Susuz yaz) (Reflections),Drama,Hillary Francesc,Alissa Vinick,4,2011
+565,Seance on a Wet Afternoon,Crime|Drama|Thriller,Victor McKmurrie,Ninnette Henworth,5,1984
+566,Good Copy Bad Copy,Documentary,Elaina Vost,Roberto Fynes,6,2006
+567,Enemies: A Love Story,Drama,Rosella Letts,Elizabet Cudby,7,1997
+568,Anita,Documentary,Isahella McFeate,Sunshine Ellick,8,2002
+569,Just One of the Guys,Comedy,Sada Fawson,Prinz Leaves,9,2009
+570,Black Cadillac,Horror|Thriller,Harrietta Franceschi,Joseito Enderson,0,2012
+571,"Company You Keep, The",Thriller,Talbert MacKaig,Bradly Tomczykowski,1,2006
+572,"Story of Ruth, The",Drama,Prue Jedrzejczyk,Nathaniel Huskinson,2,1985
+573,Miracle Run,Drama,Adore Neely,Emera Malling,3,2004
+574,"Object of Beauty, The",Comedy|Drama,Town Ohms,Morissa Carthew,4,1995
+575,"Captive, The (Prisonnière, La)",Animation|Fantasy,Ruperta Staning,Jason Hambridge,5,2011
+576,"Blind Menace, The (Shiranui kengyô)",Crime|Drama,Corliss Downer,Hall Lavelle,6,2010
+577,Massacre at Central High,Drama|Horror|Thriller,Cher Franklen,Angeli Rubery,7,1995
+578,Big Bad Love,Drama,Bendix Mephan,Gabriell Graal,8,2013
+579,Suite Française,Drama|Romance|War,Abra Bellamy,Anna-diana Afield,9,2001
+580,Case 39,Horror|Thriller,Lucita Penlington,Gregoor Rawe,0,2001
+581,Happy New Year (La Bonne Année),Comedy|Crime|Drama,Leola Sawood,Shea Assel,1,2012
+582,Full Moon in Paris (Les nuits de la pleine lune),Drama|Romance,Skelly Sidnall,Maybelle Grinikhinov,2,1998
+583,Radio Free Albemuth,Drama|Sci-Fi,Annecorinne Whipp,Kerr Simon,3,2012
+584,Angela,Drama,Marieann Pardy,Nolie McUre,4,1985
+585,Mississippi Masala,Drama|Romance,Kaitlyn Derrington,Dwain MacCafferky,5,1994
+586,Hamoun,Drama,Keefer Kinchington,Carline Eburne,6,2009
+587,"Ladykillers, The",Comedy|Crime,Tymon Caro,Christos Northen,7,2012
+588,"Tale of the Wind, A (Histoire de vent, Une)",Documentary,Lizzie Tomlins,Corenda Starsmeare,8,2011
+589,Ivanhoe,Adventure|Romance,Kendal Jenckes,Husein Vasiljevic,9,1995
+590,After the Reconciliation (Après la réconciliation),Drama,Gram Lubbock,Marget Fyndon,0,2012
+591,Crips and Bloods: Made in America,Documentary,Gwenneth Jakel,Yardley Greaves,1,2008
+592,Deadly Friend,Horror,Hermon De Biasio,Windy Lyal,2,2010
+593,What If... (An...),Drama|Romance,Rodge Bernardeschi,Eachelle Clemente,3,2007
+594,Deceived,Thriller,Briney Garlinge,Chadwick Baylie,4,2009
+595,"Witch Who Came from the Sea, The",Horror|Thriller,Rozele Bullus,Ira Brammar,5,1993
+596,"Trip to Italy, The",Comedy|Drama,Kassie Franey,Nicoline Vassel,6,2004
+597,Gamera vs. Barugon,Action|Fantasy|Sci-Fi,Katuscha Borrington,Rab Smellie,7,1997
+598,Sky Captain and the World of Tomorrow,Action|Adventure|Sci-Fi,Barbee Gianasi,Viviyan Owttrim,8,2003
+599,Right America: Feeling Wronged - Some Voices from the Campaign Trail ,Documentary,Andeee Pesticcio,Lisabeth Ellams,9,2003
+600,"Farmer's Wife, The",Comedy,Juline Lethbury,D'arcy Guisot,0,1989
+601,Men Without Women,Action|Drama,Esme Jirousek,Randie Sandbrook,1,1995
+602,Nokas,Crime|Thriller,Guthry Buckles,Ellissa Brosio,2,2012
+603,Love Can Seriously Damage Your Health,Comedy|Romance,Kris Willavize,Ingmar Rhoddie,3,2003
+604,One Week,Adventure|Drama,Ronnica Pierce,Oby Wasteney,4,2002
+605,"X, Y and Zee (Zee and Co.)",Drama,Lindsey Imlen,Kettie Manterfield,5,1984
+606,Apartment for Peggy,Drama,Marta Tottem,Verge Dixon,6,2007
+607,Beautiful Dreamer: Brian Wilson and the Story of 'Smile',Documentary,Bard Haselup,Irena Iwaszkiewicz,7,2004
+608,My Summer of Love,Drama|Romance,Linoel Pollack,Delia McNay,8,2012
+609,Mute Witness,Comedy|Horror|Thriller,Olivie Lowbridge,Adelaide Curr,9,1992
+610,Going All the Way,Comedy|Drama,Maryanne McGannon,Janenna Nettles,0,2006
+611,"Scarlet Letter, The (Der scharlachrote Buchstabe)",Drama,Dahlia Banyard,Lonnard Player,1,1966
+612,Robinson Crusoe (Daniel Defoe's Robinson Crusoe),Adventure|Drama,Guido Secrett,Goldi Rillatt,2,1993
+613,Restless (Levottomat),Drama|Romance,Sarah Theakston,Gratia Kennedy,3,2000
+614,Crime Busters,Action|Adventure|Comedy|Crime,Moises Everett,Freeman Plaskett,4,1995
+615,Hannah Free,Drama,Noami Leavesley,Wylie Sandbrook,5,1991
+616,Match Point,Crime|Drama|Romance,Layney Heimann,Jeannine Callf,6,2007
+617,Queen of Outer Space,Adventure|Fantasy|Sci-Fi,Claudell Hubeaux,Jewelle Loddy,7,2007
+618,"High Cost of Living, The",Drama,Toby Pelman,Giorgi Wintersgill,8,2007
+619,Scary Movie 5 (Scary MoVie),Comedy,Annadiane Thirwell,Esther Blinerman,9,1993
+620,By the Sword,Drama,Wendy Vogelein,Trixi Punt,0,1992
+621,Little Manhattan,Children|Comedy|Romance,Neel D'Alesio,Benjamen Axtonne,1,2001
+622,Burnt by the Sun 2 (Utomlyonnye solntsem 2),Drama,Lishe Bodley,Lizzie Scholard,2,1995
+623,Tony Takitani,Drama,Andrea Booler,Bordy Stollman,3,1996
+624,"Lizard in a Woman's Skin, A (Lucertola con la pelle di donna, Una)",Horror|Mystery|Thriller,Charyl Rickett,Rebecka De Winton,4,2001
+625,Lollilove,Comedy,Henrieta Moberley,Clarice Vlasenkov,5,2012
+626,Shanghai,Crime|Thriller,Zackariah Sparshett,Maybelle Willison,6,2001
+627,Cutie and the Boxer,Documentary,Raychel Sparwell,Iona Loughan,7,1991
+628,100 Years of Evil,Adventure|Comedy|Documentary,Stirling Collerd,Jedediah Potebury,8,2007
+629,Expect No Mercy,Action|Sci-Fi,Tracey Fyrth,Constancy Nijs,9,2006
+630,Son of Rambow,Children|Comedy|Drama,Ottilie Clemett,Chastity Tidman,0,1976
+631,Den enskilde medborgaren,Comedy,Ignazio Redit,Nancee Hazlehurst,1,2008
+632,Sangre de mi sangre (Padre Nuestro),Drama|Thriller,Gerhard Cicchillo,Ragnar Shaughnessy,2,1992
+633,Throw Momma from the Train,Comedy|Crime,Anders Grundle,Dareen de Bullion,3,1986
+634,"Mosquito Net, The (La mosquitera)",Drama,Rebekah McLurg,Audrey Kubanek,4,1989
+635,My Grandfather's People (Dedemin insanlari),Comedy|Drama,Bendicty Voce,Griz Oughton,5,2012
+636,"Greatest, The",Drama,Carena Swanne,Alisha Crathorne,6,2005
+637,"Spirit of the Beehive, The (Espíritu de la colmena, El)",Drama|Horror|Mystery,Jacquette Jacquemard,Joycelin Mateuszczyk,7,2002
+638,"Like Father, Like Son",Comedy,Elita Kynett,Thomasine Ebbers,8,1983
+639,Dracula Untold,Action|Drama|Fantasy,Tomaso Sangster,Waly Wile,9,1992
+640,Stealing Home,Drama,Berk Schellig,Jefferson Elt,0,2001
+641,The Squeeze,Action|Comedy|Crime|Romance|Thriller,Lennie Grinsted,Montgomery Lishmund,1,1989
+642,Smashing Pumpkins: If All Goes Wrong,Documentary|Musical,Gerard Hyam,Derrek Dockreay,2,2006
+643,"I Want a Dog for Christmas, Charlie Brown",Animation|Children|Comedy,Ashlin Jenkerson,Jenelle Meneo,3,2005
+644,Hellraiser III: Hell on Earth,Horror,Carlos Gorghetto,Opal MacNish,4,1998
+645,Moving Midway,Documentary,Vick Screeton,Costanza Tremontana,5,2012
+646,"Cost of Oil: Voices from the Arctic, The",Documentary,Kayley Vella,Alejandra Westnage,6,1991
+647,Canned Dreams (Säilöttyjä unelmia),Documentary,Jeanelle Daws,Yance McCaskell,7,1997
+648,"Koruto wa ore no pasupooto (Colt Is My Passport, A)",Action|Crime|Drama,Carce Shepherdson,Sam Perree,8,2011
+649,Non-Stop,Drama|Mystery|Thriller,Camille Hoovart,Fred Klimuk,9,2004
+650,"Hunchback of Notre Dame, The",Drama|Horror,Janel Brayne,Waly McAusland,0,1984
+651,"Cost of Living, The (Le coût de la vie)",Comedy,Rollins Earry,Nadiya Muriel,1,1998
+652,Tetsuo II: Body Hammer,Horror|Sci-Fi,Erin Ager,Idalia Paulillo,2,1987
+653,Aspen,Documentary,Ebba Hospital,Rochella Gregorowicz,3,1999
+654,"Groomsmen, The",Comedy|Drama|Romance,Nonna Glede,Agata Laughlin,4,1991
+655,"41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It, The",Comedy,Maybelle Lunnon,Stephanie Bellefonte,5,1994
+656,Sweet Nothing,Drama,Son Petofi,Palm Portigall,6,2009
+657,"Challenge, The",Action,Bessy Ameer-Beg,Hort Portis,7,2007
+658,Our Modern Maidens,Comedy|Drama,Baryram Spain-Gower,Birdie Gelland,8,1998
+659,Shivers (They Came from Within),Drama|Horror|Sci-Fi,Gertruda Stimson,Edna Gledstane,9,1996
+660,"Many Adventures of Winnie the Pooh, The",Animation|Children|Musical,Rufus Juarez,Falkner Olyfant,0,1985
+661,Throne of Blood (Kumonosu jô),Action|Drama|Thriller|War,Archambault Massel,Blakelee Groven,1,1993
+662,Parents,Comedy|Drama|Horror,Corbett Petkens,Delila Wraight,2,2006
+663,"River, The (Joki)",Drama,Sascha Troucher,Verine Pudan,3,1988
+664,"Great King, The (Der große König)",Drama|War,Fredelia Elston,Keefer Daley,4,2011
+665,Get Out of My Room,Comedy,Morly Kayne,Godart Whistance,5,2008
+666,Tyler Perry's Madea's Big Happy Family,Comedy|Drama,Fern Clint,Tadeas Shelf,6,1993
+667,Labyrinth of Lies,Drama,Odey Worgan,Washington Piburn,7,2007
+668,Bamboozled,Comedy,Kaine Kelland,Cherida Fausch,8,2002
+669,Superhero Movie,Action|Comedy|Sci-Fi,Margaretta Dunton,Benyamin Januszkiewicz,9,2006
+670,Last Action Hero,Action|Adventure|Comedy|Fantasy,Romy Bony,Thor McGeraghty,0,2010
+671,My Cousin Rachel,Drama|Mystery|Romance,Joyann Carnie,Frazer Wandrach,1,2004
+672,What Women Want,Comedy|Romance,Vonnie Keyte,Leeann Putley,2,2007
+673,Nothing Left to Fear,Horror,Obidiah Artin,Alexia Versey,3,2001
+674,Captain Horatio Hornblower R.N.,Action|Adventure|Drama|War,Nikki Wermerling,Ric Quiddington,4,1993
+675,Passengers,Drama|Mystery|Thriller,Willis Trenfield,Madelaine Winspeare,5,1993
+676,Bulldog Drummond Escapes,Adventure|Mystery|Romance|Thriller,Theresina Edmans,Sutherland Thurlby,6,2005
+677,"Citizen, The",Drama,Benjamin Hornbuckle,Monte Poppleton,7,2001
+678,Ten Minutes Older,(no genres listed),Tucky Stillman,Lavinie Stansfield,8,1997
+679,"Way Ahead, The (a.k.a. The Immortal Battalion)",Drama|War,Stesha Kirwood,Rem Quarmby,9,2000
+680,Abbott and Costello Meet the Keystone Kops,Comedy,Norma Fancourt,Avril Simmance,0,2005
+681,Zachariah,Comedy|Musical|Western,Phebe Allan,Danny Byrth,1,1992
+682,American Graffiti,Comedy|Drama,Justinn Sheara,Evangelia Winley,2,1998
+683,Känd från TV,Comedy,Zachariah Blondel,Carmine Tzar,3,2008
+684,Industrial Symphony No. 1: The Dream of the Brokenhearted,Drama,Hale McGilben,Aloysia Loftie,4,1992
+685,Defying Gravity,Drama,Andros Mulcahy,Field Cardno,5,1991
+686,Adventures of a Dentist,Comedy,Reynard Maund,Celinka Boribal,6,1992
+687,Revenge of the Nerds III: The Next Generation,Comedy,Betty Pietesch,Rudolph Bees,7,2004
+688,Out of the Fog,Crime|Drama|Film-Noir,Von Roughsedge,Nathalie Caughey,8,1992
+689,Burn Paris Burn,Animation|Fantasy|Mystery,Effie Duffit,Blair Herity,9,2000
+690,22 Jump Street,Action|Comedy|Crime,Lezlie Duchateau,Florentia Filgate,0,2006
+691,"Great Lie, The",Drama,Massimiliano Vasilchenko,Isaiah Mitrikhin,1,2008
+692,"Air Up There, The",Comedy,Roth Annies,Bari Greenig,2,2007
+693,Man Is Not a Bird (Covek nije tica),Drama|Romance,Broderic Petherick,Myrta Olanda,3,2007
+694,Sisters of the Gion (Gion no shimai),Drama,Bevan Sealy,Abbe Suttaby,4,1996
+695,Meet the Feebles,Animation|Comedy|Musical,Rubetta Tother,Horacio Regnard,5,2010
+696,We the Party,Comedy,Urban Ditch,Trevar Bellchamber,6,2010
+697,Ip Man,Action|Drama|War,Gusty Huffadine,Eugenius Volante,7,2002
+698,Someday This Pain Will Be Useful to You,Drama,Bryce Jagels,Jaquenette Staterfield,8,1994
+699,"Family Thing, A",Comedy|Drama,Markos Bilovsky,Lonna Muckloe,9,2004
+700,"King of Texas, The",Documentary,Viki Giacomasso,Marthe Cowthard,0,2000
+701,"Rose Tattoo, The",Drama|Romance,Gregorio Northwood,Jenine Hedau,1,1979
+702,"Confession, The",Drama|Thriller,Sherilyn Syres,Pamela Marczyk,2,1984
+703,I Know What I Saw,Documentary,Arnold Prattington,Roseline Lewton,3,2012
+704,"Story of Science, The",Documentary,Jabez Guerrazzi,Regine Scamel,4,1989
+705,Don Juan DeMarco,Comedy|Drama|Romance,Johnathon Scedall,Ninnette Chaves,5,1986
+706,Scary Movie 5 (Scary MoVie),Comedy,Piotr Eteen,Constantine Dahmel,6,2009
+707,"Dreamers, The",Drama,Luz Lewer,Mathian Mawdsley,7,1996
+708,Beauty and the Beast (La belle et la bête),Drama|Fantasy,Caroljean Kohnen,Gertrud Dybald,8,2006
+709,Josh and S.A.M.,Adventure|Comedy|Drama,Brandi Bride,Hillary Phripp,9,1985
+710,"Farewell, Home Sweet Home (Adieu, plancher des vaches!)",Comedy|Drama,Sayers Birtley,Betti Brave,0,2009
+711,When a Stranger Calls,Horror|Thriller,Ches Steed,Moise Hollibone,1,2006
+712,Margaret Thatcher: The Long Walk to Finchley,Drama,Tiffanie Fetherstone,Costanza Gniewosz,2,1986
+713,300,Action|Fantasy|War|IMAX,Aron Flemyng,Timmy Terren,3,2010
+714,Nukes in Space,Documentary,Albertine Freezer,Jelene McEntegart,4,1967
+715,Jakob the Liar,Drama,Wendy Southcott,Gray Enrrico,5,1997
+716,In the House,Comedy|Drama|Mystery|Thriller,Fiann Brocking,Gunilla Benoix,6,1995
+717,Alatriste,Action|Adventure|Romance|War,Janeczka Penvarden,Mariellen Thandi,7,2007
+718,"Running Man, The",Action|Sci-Fi,Gene Porter,Billye Pitbladdo,8,2001
+719,Play the Game,Comedy|Romance,Joe Hinchon,Aurthur Marrill,9,2012
+720,"Big City, The (Mahanagar)",Drama,Dotty Hartman,Caryn O'Conor,0,2001
+721,I Am Number Four,Action|Sci-Fi|Thriller|IMAX,Ashia Huddles,Elka Bartomeu,1,2006
+722,Tarantula,Horror|Sci-Fi,Alvy Cutsforth,Bill Booeln,2,1998
+723,Starsky & Hutch,Action|Comedy|Crime|Thriller,Bertie Peacham,Grazia Daice,3,2006
+724,Nude for Satan (Nuda per Satana),Horror,Isidora Dacke,Rodie Helstrom,4,2009
+725,"Chameleon, The ",Drama,Morley Flips,Kingsly Freyn,5,1993
+726,Night Will Fall,Documentary,Kelby Glasbey,Agneta Jolly,6,2001
+727,Decampitated,Comedy|Horror,Lucilia Kindle,Marcella Morrid,7,2008
+728,"Legend II, The (Fong Sai Yuk juk jaap)",Action|Adventure|Comedy,Lanie Ygo,Lenore Pfaff,8,1985
+729,Everything About Mustafa (Mustafa hakkinda hersey),Drama|Thriller,Vinnie Rumford,Ortensia Bradnock,9,2009
+730,"Truman Show, The",Comedy|Drama|Sci-Fi,Rosalyn Russo,Tammie Tunny,0,1992
+731,Raid on Rommel,War,Earle Retter,Harmonie Kopelman,1,2000
+732,3 Sailors and a Girl (Three Sailors and a Girl),Comedy|Musical,Elsbeth Stede,Isobel Strachan,2,1992
+733,Tokyo Drifter (Tôkyô nagaremono),Action|Crime|Drama,Odey de Mendoza,Tomkin Queyeiro,3,2005
+734,Show Me,Crime|Drama|Thriller,Leanna Ronald,Daniela Castana,4,1987
+735,Scatter My Ashes at Bergdorf's,Documentary,Roderick Andrea,Orran Dumbelton,5,1991
+736,Iron Man 3,Action|Sci-Fi|Thriller|IMAX,Phillipp Stolz,Mallory Karus,6,2009
+737,"Crystal Ball, The",Comedy,Anjanette Sandys,Kacie Huggard,7,1986
+738,Alien Space Avenger,Comedy|Horror|Sci-Fi,Michail Giacobillo,Douglass Scrigmour,8,1974
+739,"Swimmer, The",Drama,Sisile Cuskery,Francklin Seniour,9,2000
+740,"French Lieutenant's Woman, The",Drama,Maximilien Dugall,Lenee Costell,0,2011
+741,Never Again,Comedy|Romance,Merry Giacovetti,Shirline Cranke,1,2010
+742,Penitentiary,Drama,Ignaz Kelloway,Allissa Mahmood,2,2004
+743,This Is the Night,Comedy,Rube Merwede,Tory Antushev,3,2003
+744,Barry Munday,Comedy,Trip Woolfenden,Cecil Keohane,4,2012
+745,Floating,Drama,Rodie MacDermott,Rosie Harses,5,1997
+746,Cat's Eye,Horror,Clarine Gater,Louisette Sutcliff,6,1999
+747,"Girl Next Door, The",Comedy|Romance,Gisella Muslim,Sheilah Grigorio,7,1988
+748,"Girl Said No, The",Comedy|Romance,Maryellen Vasyukov,Yard Langsbury,8,1995
+749,Revenge for Jolly!,Comedy|Drama,Trevor Blenkiron,Celestyna Ferretti,9,1976
+750,Road to Perdition,Crime|Drama,Felecia Seeds,Hamlen McIlwraith,0,1995
+751,Maximum Conviction,Action|Adventure|Thriller,Guilbert Nayshe,Cammy Freckingham,1,2012
+752,"South, The (Sur)",Drama,Dud Pygott,Quint Sarjeant,2,1996
+753,Mansfield Park,Comedy|Drama|Romance,Mac Wennington,Alex Torrent,3,2011
+754,"Theory of Everything, The",Drama|Romance,Katina Corneck,Tammie Henstridge,4,1988
+755,Loving You,Drama|Musical,Riva Racine,Frankie Gildersleaves,5,2009
+756,In the Bedroom,Drama,Callean Ciccottini,Claiborn Kleinmann,6,2000
+757,Spinning Plates,Documentary,Luce Emerton,Stephen Twaite,7,1994
+758,Contact,Drama|Sci-Fi,Robinetta Kempton,Kerby Ruperti,8,2006
+759,Stoker,Drama|Mystery|Thriller,Englebert Hardern,Farra Wontner,9,2009
+760,"Hell Without Limits (Lugar sin límites, El)",Drama,Matthaeus Bednell,Casie McCambridge,0,1997
+761,Birds of America,Comedy|Drama,Elwin Mulhall,Ellwood Memory,1,2012
+762,9 Month Stretch (9 mois ferme),Comedy,Xever Woodham,Rhonda Sivior,2,2006
+763,Winter Soldier,Documentary|War,Basile Putton,Claire Matherson,3,1995
+764,Snake River Desperadoes,Western,Tonye Moyne,Peri Winks,4,2001
+765,My Science Project,Adventure|Sci-Fi,Chrystal Flockhart,Rakel Dewdney,5,2001
+766,Sam's Song,Drama,Binny Peaddie,Wyatan Bea,6,2008
+767,"Slight Case of Murder, A",Comedy|Crime,Sherye Van der Velde,Zorina Hallewell,7,1989
+768,Operation Petticoat,Action|Comedy|Romance|War,Ludovico Wason,Clarine Caddy,8,2006
+769,Wanderlust,Comedy,Pete Blaszczyk,Judith Groundwater,9,2002
+770,Trailer Park Boys: Live at the North Pole,Comedy,Wanda Edeson,Mariejeanne Gwin,0,2010
+771,Life in Flight ,Drama,Ferd Pepler,Astra Thurborn,1,2004
+772,Pride & Prejudice,Drama|Romance,Bran Bilbery,Tudor Statton,2,1993
+773,Red Dragon,Crime|Mystery|Thriller,Winston Petroff,Tessy Neno,3,2007
+774,Richard III,Drama|War,Carola McArte,Swen Wield,4,1997
+775,"Silent Night, Bloody Night",Horror,Gorden Merrifield,Jeramie Fanning,5,1995
+776,Legend No. 17,Drama,Merrel Bardey,Carrie Petrov,6,2012
+777,Wayne's World 2,Comedy,Pepe Corbet,Nan Lindsell,7,1995
+778,"John Huston: The Man, the Movies, the Maverick",Documentary,Obie Gotter,Lanie Boswood,8,2000
+779,Dikkenek,Comedy,Burk Claw,Benedick Rowlinson,9,2009
+780,"Sky's the Limit, The",Comedy|Musical|Romance,Fernandina Pallas,Christina Tetford,0,1998
+781,Derailed,Action|Thriller,Lem Deegan,Ephraim Cowterd,1,1989
+782,Leprechaun: Origins,Horror,Nathalie Sineath,Nial Orrick,2,2011
+783,Maborosi (Maboroshi no hikari),Drama,Bengt Prandini,Kurt Rylance,3,1999
+784,"Lady Takes a Chance, A",Comedy|Romance|Western,Berkley Faughnan,Hayley Loseby,4,2004
+785,U2 3D,Documentary|IMAX,Johnny Winpenny,Francoise Haizelden,5,1996
+786,My Left Foot,Drama,Astra Benadette,Marabel Marquand,6,1986
+787,"Loss of a Teardrop Diamond, The",Drama,Herrick Attril,Timmie Zollner,7,1994
+788,"Last of the High Kings, The (a.k.a. Summer Fling)",Comedy|Drama,Delinda Marczyk,Carolyn Higgoe,8,2012
+789,Faces of Death 6,Documentary|Horror,Fay Manners,Clarita Porson,9,2009
+790,Meet the Deedles,Children|Comedy,Aurelie Demare,Harriett Queree,0,1979
+791,That's Entertainment,Documentary,Esma Alvin,Lonni Grevel,1,1993
+792,"Green Room, The (a.k.a. Vanishing Fiancee) (La chambre verte)",Drama,Charmaine Stobbie,Danit Tregaskis,2,2006
+793,Bliss,Comedy|Drama,Lynelle Cromie,Emeline Esmead,3,1989
+794,"Das Experiment (Experiment, The)",Drama|Thriller,Zacherie Peirce,Dana Danis,4,2003
+795,Hangover Square,Crime|Drama|Horror|Thriller,Bentley Posnett,Clem Charlotte,5,2009
+796,Modesty Blaise,Comedy,Shannen Meeus,Darrick Cripps,6,2001
+797,Shanghai Calling,Comedy|Drama|Romance,Fawne Chatain,Clyve Busfield,7,2008
+798,"Lucky Texan, The",Romance|Western,Tani Pryn,Corey McChesney,8,1995
+799,Our Beloved Month of August (Aquele Querido Mês de Agosto),Romance,Genovera Carnduff,Lora Fanning,9,2012
+800,Thomas Jefferson,Documentary,Linus Gresch,Ibrahim De Cruze,0,1996
+801,"Streetcar Named Desire, A",Drama,Fonsie Canny,Annnora Vella,1,1992
+802,Thor: Tales of Asgard,Animation,Jacquette Gellett,Zak Le Barr,2,1999
+803,Night of Dark Shadows,Drama|Horror|Mystery|Romance|Thriller,Lorna Sparham,Wes Durnill,3,2000
+804,Out of Mind: The Stories of H.P. Lovecraft,Fantasy|Horror,Clea Sedworth,Sonya McDill,4,2006
+805,Nixon,Drama,Demott Pohls,Claiborne Pettegree,5,1999
+806,"M. Hulot’s Holiday (Mr. Hulot's Holiday) (Vacances de Monsieur Hulot, Les)",Comedy,Trevar Schaffel,Raff Cussins,6,1989
+807,"Help Me, Eros (Bang bang wo ai shen)",Drama,Heriberto Raffan,Tatiania Galfour,7,2009
+808,Girlfight,Drama,Melisenda Macari,Rana Cullnean,8,2002
+809,"Accidental Tourist, The",Comedy|Drama|Romance,Iorgos Richley,Magda Howlings,9,1994
+810,Restless Souls (Bag det stille ydre),Drama|Horror|Mystery,Leonanie Sillis,Katerine Codling,0,2006
+811,Confessions of a Window Cleaner,Comedy,Juanita Iacavone,Vonny Tabary,1,1994
+812,Flame and Women (Honô to onna) ,Drama,Kelcie Crutchley,Xerxes Sennett,2,2005
+813,"Gravedancers, The",Horror|Thriller,Ephrayim Spurgeon,Pru Slad,3,1998
+814,Petulia,Drama,Letitia Falls,Tris Shambrook,4,1987
+815,"Other Side of Bollywood, The",Documentary,Christabella Uridge,Rickey Parsand,5,2010
+816,Corpse Bride,Animation|Comedy|Fantasy|Musical|Romance,Sada Edwinson,Lainey Jozef,6,1996
+817,We're the Millers,Comedy|Crime,Orren Faro,Roselle Yanele,7,1993
+818,"Wildest Dream, The",Documentary,Ezri Milington,Eimile Dugald,8,2001
+819,Perfectly Normal,Comedy,Gusella McGaughey,Phyllis Pharoah,9,1985
+820,"Princess Diaries 2: Royal Engagement, The",Comedy|Romance,Leo Pieracci,Shandie Warburton,0,1992
+821,Goal II: Living the Dream,Action|Drama,Jerrylee Orhtmann,Nicholas Ruckledge,1,2004
+822,Katatsumori,Documentary,Lyn Leadbetter,Dale Klimkov,2,2006
+823,Nymphomaniac: Volume II,Drama|Mystery,Binni Quadling,Staci Balden,3,2008
+824,Moonstruck,Comedy|Romance,Dora Aldrich,Anet Corneliussen,4,2008
+825,"Great War, The (Grande guerra, La)",Action|Adventure|Comedy|Drama|War,Morley Sprey,Tara Ball,5,2008
+826,Pauline at the Beach (Pauline à la Plage),Comedy|Drama|Romance,Audre Bretherton,Lane Brumen,6,1985
+827,"Lion King, The",Adventure|Animation|Children|Drama|Musical|IMAX,Towny Mowbury,Harwell Jecks,7,1990
+828,"Murder, Inc.",Crime|Drama,Ediva Obee,Cassy Cregin,8,1992
+829,Drawing Restraint 9,Fantasy,Lonee Peirpoint,Wat Manjot,9,2001
+830,"Killer Elite, The",Action|Drama|Thriller,Terry Brennen,Ewart Gallyhaock,0,1963
+831,One False Move,Crime|Drama|Film-Noir|Thriller,Randell Lees,Leodora Smitherham,1,2007
+832,She-Devil,Comedy,Sidonia Jesson,Bunnie Mash,2,2002
+833,Rififi (Du rififi chez les hommes),Crime|Film-Noir|Thriller,Mandy Jiggen,Rosamund Brydone,3,2006
+834,"Nutty Professor, The",Comedy|Sci-Fi,Olly Ure,Erwin Canham,4,2005
+835,Big Bad Love,Drama,Celka Albery,Carolyne Yakushkin,5,2011
+836,Indiana Jones and the Last Crusade,Action|Adventure,Egor Dubock,Phillie Shera,6,2006
+837,"Bone Collector, The",Thriller,Ardelis Sarfass,Shandra Jandak,7,2005
+838,Eyes of Laura Mars,Mystery|Thriller,Karon Abraham,Zorina Stewart,8,1998
+839,Changing Sides (De l'autre côté du lit),Comedy,Fanny Whapples,Jeri Spencook,9,2008
+840,"Hot Dog Program, A",Documentary,Nanine Izkovicz,Anallise Sackur,0,2010
+841,Peter Pan,Action|Adventure|Children|Fantasy,Shannen Menham,Humbert Lantiffe,1,1964
+842,Love Letters,Drama|Mystery|Romance,Yehudit Craster,Westbrooke Harradine,2,2004
+843,"Forgotten One, The",Thriller,Morley McSorley,Meaghan Trighton,3,2008
+844,Stalker,Drama|Mystery|Sci-Fi,Patrick Cornilleau,Diana Kid,4,2006
+845,Divine Secrets of the Ya-Ya Sisterhood,Comedy|Drama,Barby Lonergan,Jeri Ilyin,5,2008
+846,Miss Sweden (Fröken Sverige),Drama,Kirby Folkerd,Georgi Goodman,6,2000
+847,Kummeli Stories,Comedy,Alecia Lucchi,Bunnie Skillman,7,1998
+848,"Dunce Class on Vacation, The (Hababam sinifi tatilde)",Comedy,Natalya Yare,Christiana Daily,8,1996
+849,This Night I'll Possess Your Corpse (Esta Noite Encarnarei no Teu Cadáver),Horror,Perry Berick,Ramsey Murison,9,1996
+850,Watching the Detectives,Comedy|Romance,Nessi Melland,Patsy Routh,0,1999
+851,Masquerade,Mystery|Romance|Thriller,Thedrick O'Gormally,Uriel Writtle,1,2005
+852,Paulette,Comedy|Crime,Ram Bouttell,Bird Nix,2,2006
+853,The Humanoid,Fantasy|Sci-Fi,Jeffie Cranham,Tonye Lezemore,3,1995
+854,Rustlers' Rhapsody,Comedy|Western,Cammy Bannon,Collette Werny,4,2000
+855,Bathory,Drama|Fantasy,Kalle Wipper,Pierce Halsall,5,1994
+856,"Flaw, The",Documentary,Angelina Chestney,Carr Carlyle,6,2006
+857,"Combat dans L'Ile, Le (Fire and Ice)",Drama,Chad Burril,Raff Tourle,7,2000
+858,Julie Johnson,Drama,Sol Farman,Gregorius Mawd,8,2003
+859,I Thank a Fool,Drama,Ephraim Shire,Malissia MacRorie,9,2000
+860,"Return of the Prodigal Son, The (Návrat ztraceného syna)",Drama,Daryl Byrth,Christoper Turner,0,2009
+861,Narc,Crime|Drama|Thriller,Carilyn Newbery,Briano Van Arsdall,1,1999
+862,Pollyanna,Children|Comedy|Drama,Vivianne Wainer,Ileana Deare,2,2000
+863,Drums Along the Mohawk,Adventure|War|Western,Tiff Cauderlie,Anabal Metcalfe,3,1992
+864,Train Ride to Hollywood,Comedy|Fantasy|Musical,Felecia Spadollini,Farr Filipczak,4,1994
+865,Center Stage,Drama|Musical,Jonas Towner,Frederic Zecchetti,5,2009
+866,Vampire in Venice (Nosferatu a Venezia) (Nosferatu in Venice),Horror,Cornela Oliveto,Linnea Jojic,6,2009
+867,That Touch of Mink,Comedy|Romance,Torrin Winsborrow,Aldus Klesl,7,1994
+868,"Omega Code, The",Action,Jaime Phear,Enrica Aldren,8,1999
+869,Flood,Action|Drama|Thriller,Moreen Peregrine,Kimmi Blazewski,9,1999
+870,"Frozen, The",Horror|Thriller,Cindee Cufflin,Muhammad Doers,0,1970
+871,"Possession of David O'Reilly, The ",Horror,Harlen Mockford,Filberto Kenney,1,2012
+872,Dimensions of Dialogue (Moznosti dialogu),Animation|Comedy|Fantasy,Martina Stredder,Shurwood Dodge,2,2003
+873,"7th Voyage of Sinbad, The",Action|Adventure|Fantasy,Linnie Goddert.sf,Kip Garlinge,3,2007
+874,Box of Moon Light,Comedy|Drama,Corella Larmuth,Phineas Harrow,4,2001
+875,Cracks,Drama|Romance|Thriller,Timmie Duker,Steve Gilbey,5,2012
+876,Coffee Town,Comedy,Earl Carhart,Zach Itskovitz,6,1998
+877,Bridget Jones's Diary,Comedy|Drama|Romance,Gratiana Shall,Roderic Dutnall,7,2007
+878,Never Back Down,Action,Nessy Braxay,Moises Vandrill,8,1996
+879,"Real Cancun, The",Documentary,Bernita Parminter,Sue Farnan,9,2005
+880,I Am a Sex Addict,Comedy|Documentary|Romance,Pansie Andrick,Orelle Le Borgne,0,2006
+881,Prison of the Dead,Horror,Rod Roffey,Crystal Thomsson,1,2005
+882,Beyond the Time Barrier,Sci-Fi,North Clarke-Williams,Dode De Bruin,2,1988
+883,"Safety of Objects, The",Drama,Tripp Cauldfield,Karoly Hansed,3,2012
+884,One True Thing,Drama,Ophelie Medlar,Oralia Kirtlan,4,2003
+885,Dunston Checks In,Children|Comedy,Jonas Collar,Launce Tucsell,5,2002
+886,Only Daughter,Drama,Elsie Wint,Anallese MacDougall,6,1985
+887,Enid Is Sleeping,Comedy,Jody Bellefonte,Alley Cecil,7,2007
+888,Black Tar Heroin: The Dark End of the Street,Documentary,Layney Bunyard,Sibley Akeherst,8,2001
+889,Starlet,Drama,Abbott Dillicate,Marie Heckney,9,1997
+890,Kanal,Drama|War,Grantley Brason,Parry Smitton,0,2004
+891,Maîtresse (Mistress),Drama|Romance,Renado Boyat,Benedetto Gendrich,1,2012
+892,"Warm December, A",Drama|Romance,Jennee Gutierrez,Gisella Taffarello,2,2009
+893,Elizabethtown,Comedy|Drama|Romance,Mychal Rahl,Candie Loton,3,1994
+894,Bend of the River,Western,Vanya Immins,Leona McMyler,4,1987
+895,Percy Jackson: Sea of Monsters,Adventure|Children|Fantasy,Matias Peacock,Kissie Denley,5,1989
+896,Household Saints,Drama,Roselle O'Hartagan,Janice Trembey,6,2000
+897,Resistance,Drama|Romance|War,Colene Chaffin,Kenn Wilkie,7,1988
+898,Girl 6,Comedy|Drama,Jandy Cotta,Moses MacQuist,8,2006
+899,White Mane (Crin blanc: Le cheval sauvage),Drama,Florian Gobel,Monro Bremmer,9,1994
+900,"Life is a Bed of Roses (Vie est un roman, La)",Fantasy|Musical,Marillin Botterell,Fawne Cordall,0,2007
+901,Casper,Adventure|Children,Tracey Campbell-Dunlop,Annemarie Lundberg,1,2009
+902,Dark Portals: The Chronicles of Vidocq  (Vidocq),Action|Crime|Fantasy,Tedman Talman,Eduino Wrankling,2,1996
+903,Remo Williams: The Adventure Begins,Action|Comedy|Crime|Thriller,Evyn Bonellie,Dillon Barras,3,1992
+904,What's the Worst That Could Happen?,Comedy,Kalle Torrent,Witty Speers,4,2010
+905,Let's Make Love,Comedy|Musical|Romance,Amber Patsall,Ellwood Toop,5,1990
+906,One Way Boogie Woogie,Documentary,Timothy Amorts,Davy Wilderspoon,6,1997
+907,I Hate But Love (Nikui an-chikushô),Action|Comedy|Drama|Romance,Trescha Stoaks,Si Bonson,7,1989
+908,"Farewell, My Lovely",Crime|Mystery|Thriller,Ertha Eshelby,Kimbra Mustoe,8,2010
+909,The Universe of Keith Haring,Documentary,Melody McCaster,Ahmad Goodfield,9,1997
+910,Midnight's Children,Drama,Ondrea Tuckey,Tally Rendbaek,0,2011
+911,Thief of Hearts,Drama|Thriller,Eva Ricardot,Rad Kittman,1,1999
+912,Brainstorm (Bicho de Sete Cabeças),Drama,Winne Ausello,Ailey Bowdidge,2,1996
+913,Gangster Squad,Action|Crime|Drama,Isabeau Close,Sheffie Nathan,3,1993
+914,Bananaz,Documentary,Conny Messent,Jyoti Leppington,4,2007
+915,Murder à la Mod,Comedy|Crime|Mystery,Cathee Ebdin,Faythe Lamminam,5,2001
+916,Troop Beverly Hills,Comedy,Amalita Doyley,Oliver Ianittello,6,1988
+917,"Posto, Il",Drama,Mal Cann,Anselm Kraut,7,1998
+918,Freezer,Action|Thriller,Drusilla Sreenan,Lorena Baseggio,8,2009
+919,"Doctor and the Devils, The",Drama|Horror,Avigdor Swales,Rodrigo Bontine,9,2009
+920,Vanishing Point,Action|Drama,Florence Campa,Jobey Inglish,0,2003
+921,JCVD,Action|Drama|Thriller,Jeniece Spridgeon,Tamarah Masterton,1,1992
+922,"Men, Women & Children",Comedy|Drama,Esme Daniaud,Ardine Radki,2,1998
+923,Carmina and Amen (Carmina y amén),Comedy|Drama,Goldy Ragles,Leontyne Bodiam,3,2011
+924,Aliyah (Alyah) ,Drama,Connie Ferrari,Vachel Ladbrooke,4,2006
+925,Breezy,Drama|Romance,Krystyna Nuttey,Tuckie Feveryear,5,1995
+926,Eichmann,Drama|War,Lovell Dorcey,Gabriel Canon,6,1991
+927,"Ninja, A Band of Assassins (Shinobi No Mono)",Action|Drama,Glennis Varcoe,Gonzales Lineker,7,2012
+928,L'antisémite,Comedy,Morley Kenworth,Sonnnie Manthroppe,8,2005
+929,Japanese Story,Drama,Windham Sapshed,Konstanze Symms,9,2009
+930,"Pornographers, The (Erogotoshi-tachi yori: Jinruigaku nyûmon)",Comedy|Drama,Flint Paybody,Brandais Scotfurth,0,2011
+931,Run Lola Run (Lola rennt),Action|Crime,Forest Cosham,Wynnie Landor,1,1993
+932,Bad Country,Action|Crime|Drama|Thriller,Reynold Waterstone,Jock Elgee,2,2006
+933,Joulupukki ja noitarumpu,Animation|Children,Priscella Daveley,Cynthy McDowall,3,2000
+934,Street Mobster (a.k.a. Modern Yakuza: Outlaw Killer) (Gendai yakuza: hito-kiri yota),Action|Crime,Wilbur Lyenyng,Antony Servis,4,2001
+935,Rudderless,Comedy|Drama,Emyle Darwent,Gwen St. Queintain,5,2010
+936,We Can Be Heroes,(no genres listed),Katharina Lutty,Lucien Jeger,6,1993
+937,Babette's Feast (Babettes gæstebud),Drama,Roxi Iacomettii,Saidee Blazy,7,2000
+938,Shoot to Kill,Action|Adventure,Rudolph Battista,Fannie Minto,8,2007
+939,Love at First Fight,Comedy|Romance,Alyosha Bogays,Gal Kelland,9,2007
+940,Kismet,Adventure|Comedy|Fantasy|Musical|Romance,Birdie Wimms,Dela Vel,0,2001
+941,Murder!,Mystery|Thriller,Buck Randleson,Kacy Richmont,1,2005
+942,WWII IN HD,(no genres listed),Sonia Antognazzi,Fanchette Bruin,2,1993
+943,That Man from Rio,Action|Adventure|Comedy|Romance,Dud Van Baaren,Farah Crichley,3,1994
+944,"Given Word, The (O Pagador de Promessas)",Drama,Ginevra Elwell,Iver Corkan,4,1993
+945,Max Dugan Returns,Comedy,Lorne Croall,Zsazsa Elvy,5,2002
+946,"Thief of Paris, The (Le voleur)",Comedy|Crime|Drama,Hussein Wardrop,Donall Mathewes,6,2005
+947,"Great Beauty, The (Grande Bellezza, La)",Comedy|Drama,Keeley Meaton,Britt Forsdike,7,2004
+948,"Legend of Bagger Vance, The",Drama|Romance,Quinton Wenzel,Ethe Switzer,8,2011
+949,Swing Vote,Comedy|Drama,Dennis Guitel,Fayina Hirjak,9,2001
+950,"Swades: We, the People (Our Country)",Drama,Albie Emmitt,Paxon Dearnley,0,2012
+951,"Balloonatic, The",Comedy,Chrisse Thorne,Enriqueta Stepney,1,2009
+952,What Happened Was...,Comedy|Drama|Romance|Thriller,Borden Erwin,Newton Standidge,2,1996
+953,Shut Up and Play the Hits,Documentary,Michaeline Dullard,Broddie Swaine,3,2007
+954,"War Comes to America (Why We Fight, 7)",Documentary|War,Ali Ronca,Rosalyn Staves,4,1992
+955,"Greatest Story Ever Told, The",Drama,Keefer Pragnall,Cherlyn Colchett,5,2004
+956,Rat Race,Comedy,Lenci Dormer,Francois Berkeley,6,1992
+957,"Rose, The",Drama,Euphemia Cloutt,Chip Pudan,7,2004
+958,"Poker House, The",Drama,Billye Cuddehay,Allyn Banville,8,1986
+959,"What's New, Pussycat",Comedy,Conway Greatbatch,Tye Fasler,9,2005
+960,Hollow Man,Horror|Sci-Fi|Thriller,Amil Wield,Cassaundra Kingaby,0,2010
+961,City Streets,Crime|Film-Noir,Andre Hallaways,Richardo Roma,1,2013
+962,Destiny Turns on the Radio,Comedy,Pall Raise,Bert Lettington,2,2000
+963,Sounder,Drama,Cyrille Dowyer,Justis Wason,3,2010
+964,Drive Angry,Action|Fantasy|Thriller,Vincenz McGeaney,Corey Tindley,4,2001
+965,Tapestries of Hope,Documentary,Georgine Rippingale,Felice Aire,5,2012
+966,Tony,Drama|Horror|Thriller,Daisi Margerrison,Emmet Jory,6,1995
+967,Bug,Drama|Horror|Thriller,Dallas Denecamp,Duke Fryers,7,1995
+968,"Case of the Grinning Cat, The (Chats perchés)",Documentary,Ethelind Heasman,Vivian Moyse,8,2001
+969,Some Mother's Son,Drama,Hanni Tailour,Rheta Forstall,9,1992
+970,Girls in Prison,Crime|Drama|Thriller,Conn Choppin,Bibbie Fromont,0,2004
+971,Italian for Beginners (Italiensk for begyndere),Comedy|Drama|Romance,Elisabet Longridge,James Bonifazio,1,1993
+972,Rebirth,Documentary,Rolfe Wheeler,Chicky Mateo,2,1989
+973,Sassy Pants,Comedy|Drama,Mel Capnor,Trula Robarts,3,1986
+974,Goats,Comedy,Dreddy Meo,Kimmi Denmead,4,2012
+975,"Fitzgerald Family Christmas, The",Drama,Ferdinande Manuel,Mariele Deegan,5,2002
+976,Felicity,Drama,Tana Kellock,Albina Hainsworth,6,2006
+977,Tumbledown,War,Paquito Abramovic,Wren Fellona,7,2011
+978,"Guide to Recognizing Your Saints, A",Crime|Drama,Estella Stiff,Pietra Keysall,8,2000
+979,"Balance, La",Action|Crime|Drama,Dorena Winham,Wandie Iliffe,9,2004
+980,Psycho,Crime|Horror|Thriller,Cecily Dunbobin,Celestine Tweedlie,0,1996
+981,Blood: The Last Vampire,Action|Horror|Thriller,Vasilis Ogilby,Ford Lindfors,1,1993
+982,I Woke Up Early the Day I Died,Comedy|Crime|Thriller,Ellswerth Hanwright,Clovis Jedrzej,2,2008
+983,"When I Grow Up, I'll Be a Kangaroo (Kad porastem bicu Kengur)",Comedy,Martin Androlli,Deane Edie,3,2005
+984,K-911,Action|Comedy|Crime,Vickie Edlin,Tobe Woodington,4,1993
+985,Draft Day,Drama,Rodrick Baudoux,Udell Aggis,5,2009
+986,Ugetsu (Ugetsu monogatari),Drama|Thriller,Humfrid Whitcomb,Warren Burnhill,6,2009
+987,Drona,Action|Adventure|Fantasy|Musical,Shaughn Filpi,Rikki Pidgeon,7,1993
+988,"Presentation, or Charlotte and Her Steak (Présentation ou Charlotte et son steak)",Comedy|Romance,Sigismondo Iacobo,Clemmy Terron,8,2004
+989,"Spider Baby or, The Maddest Story Ever Told (Spider Baby)",Comedy|Horror,Lonnard Larive,Ruperta Lang,9,2005
+990,Graffiti Bridge,Drama|Musical,Joice Hulson,Melesa Spilstead,0,2000
+991,Goofy Movies Number One,Comedy,Flint Troni,Merline Oran,1,1994
+992,Victim,Crime|Drama,Luelle Loren,Regina Arrighetti,2,1988
+993,"Windmill Movie, The",Documentary,Alphonso Piatkow,Rosita Mowday,3,2008
+994,"Quiet Room, The",Drama,Tadeo Stanley,Rafaela Lockart,4,2010
+995,Color Me Blood Red,Horror,Griff Morton,Freeman Frango,5,2009
+996,Hannah Takes the Stairs,Drama,Jolie Fasham,Lizbeth Aubin,6,2007
+997,"Dispatch from Reuter's, A",Drama,Aloysia Prettyjohn,Noell Folbig,7,1992
+998,"Great Passage, The (Fune wo amu)",Drama,Montague Downage,Rogerio Goseling,8,2006
+999,Superman,Action|Adventure|Sci-Fi,Mae Ley,Carmella Sommerscales,9,1993
+1000,"Subject Was Roses, The",Drama,My Caplin,Janna Risebarer,0,2006
