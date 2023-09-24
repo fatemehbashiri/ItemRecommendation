@@ -31,7 +31,7 @@ python movie_recommendation.py
 
 Enter a movie title when prompted, and the system will display the top 10 similar movies.
 
-#Example
+# Example
 
 
 ```python
@@ -48,10 +48,3 @@ Top 10 similar movies to 'The Godfather':
 8. Once Upon a Time in America
 9. The Departed
 10. A Bronx Tale
-
-
-
-
-
-
-
